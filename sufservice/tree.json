@@ -1,0 +1,1252 @@
+[
+  {
+    "archivType": "KIRCHLICHE_ARCHIVE",
+    "sortId": 2760,
+    "id": "2760",
+    "eadId": "412",
+    "title": "Archiv der Lippischen Landeskirche",
+    "type": {
+      "value": "ARCHIV",
+      "displayValue": "Archiv"
+    },
+    "count": 4189,
+    "mandant": "412",
+    "permalink": "https://www.archive.nrw.de/ms/search?link=ARCHIV-412",
+    "nodeid": "ARCHIV-412",
+    "published": false,
+    "creationDate": "2023-02-03+01:00",
+    "divisionId": "98de449b-863b-4cc9-8929-c92e47beb1b6",
+    "metadata": [
+      {
+        "label": "Als Titel anzeigen",
+        "value": [
+          "Archiv der Lippischen Landeskirche",
+          "Lippischen Landeskirche Archiv"
+        ] 
+      }
+    ],
+    "children": [
+      {
+        "sortId": 532260,
+        "id": "532260",
+        "eadId": "A92x53638517856597920220210101553742",
+        "title": "Konsistorium",
+        "type": {
+          "value": "TEKTONIKPUNKT",
+          "displayValue": "Tektonikknoten"
+        },
+        "count": 2,
+        "corpName": "Archiv der Lippischen Landeskirche",
+        "mandant": "412",
+        "permalink": "https://www.archive.nrw.de/ms/search?link=TEKTONIK-A92x53638517856597920220210101553742",
+        "nodeid": "TEKTONIK-A92x53638517856597920220210101553742",
+        "signatur": "01",
+        "metadata": [
+          {
+            "label": "Als Titel anzeigen",
+            "value": [
+              "Konsistorium",
+              "Konsistorium der hydrolytish"
+            ]
+          },
+          {
+            "label": "Beschreibung",
+            "value": ["ABGEBAUTER GGFLS. SUBSTITUIERTER STÄRKE, VERWENDUNG DER HYDROLYTISH"]
+          },
+          {
+            "label": "Literatur",
+            "value": [
+              "01",
+              "01.01"
+            ]
+          },
+          {
+            "label": "Bemerkung",
+            "value": ["Zusammensetzung nach Anspruch 11, die ferner ein teilweise abgebautes Protein enthält."]
+          },
+          {
+            "label": "Hinweis",
+            "value": ["Die Basisschicht enthält ein peroxidisch abgebautes Propylenhomopolymerisat und ein Antistatikum."]
+          },
+          {
+            "label": "Verweis,  als  kommaseparierte  Liste anzeigen",
+            "value": ["Aus den gemessenen Ressourcen wurde abgebautes Rampenmaterial gewonnen."]
+          }
+        ]
+      },
+      {
+        "sortId": 532262,
+        "id": "532262",
+        "eadId": "A92x90040040016174320220210101553727",
+        "title": "Landeskirchenamt",
+        "type": {
+          "value": "TEKTONIKPUNKT",
+          "displayValue": "Tektonikknoten"
+        },
+        "count": 6,
+        "corpName": " Archiv der Lippischen Landeskirche",
+        "mandant": "412",
+        "permalink": "https://www.archive.nrw.de/ms/search?link=TEKTONIK-A92x90040040016174320220210101553727",
+        "nodeid": "TEKTONIK-A92x90040040016174320220210101553727",
+        "signatur": "02",
+        "metadata": [
+          {
+            "label": "Als Titel anzeigen",
+            "value": [
+              "Landeskirchenamt",
+              "Landeskirchenamt Tektonikknoten"
+            ]
+          }
+        ],
+        "children": [
+          {
+            "sortId": 532263,
+            "id": "532263",
+            "eadId": "A92x15410351753234820220210101553742",
+            "title": "Zentralregistratur, LKA",
+            "type": {
+              "value": "TEKTONIKPUNKT",
+              "displayValue": "Tektonikknoten"
+            },
+            "count": 2,
+            "corpName": " Archiv der Lippischen Landeskirche",
+            "mandant": "412",
+            "permalink": "https://www.archive.nrw.de/ms/search?link=TEKTONIK-A92x15410351753234820220210101553742",
+            "nodeid": "TEKTONIK-A92x15410351753234820220210101553742",
+            "signatur": "02.01.",
+            "metadata": [
+              {
+                "label": "Als Titel anzeigen",
+                "value": [
+                  "Zentralregistratur, LKA",
+                  "Zentralregistratur"
+                ]
+              }
+            ]
+          },
+          {
+            "sortId": 532265,
+            "id": "532265",
+            "eadId": "A92x95148891210556020220210101553742",
+            "title": "Personalaktenregistratur und personenbezogene Registraturen",
+            "type": {
+              "value": "TEKTONIKPUNKT",
+              "displayValue": "Tektonikknoten"
+            },
+            "count": 3,
+            "corpName": " Archiv der Lippischen Landeskirche",
+            "mandant": "412",
+            "permalink": "https://www.archive.nrw.de/ms/search?link=TEKTONIK-A92x95148891210556020220210101553742",
+            "nodeid": "TEKTONIK-A92x95148891210556020220210101553742",
+            "signatur": "02.02.",
+            "metadata": [
+              {
+                "label": "Als Titel anzeigen",
+                "value": ["Ein vom Schürfer abgebautes Mineral , das als Rohstoff für herstellende Berufe dient."]
+              }
+            ],
+            "children": [
+              {
+                "sortId": 532266,
+                "id": "532266",
+                "eadId": "A92x05038088560104320220210101553727",
+                "title": "Theologinnen und Theologen, Personalakten",
+                "type": {
+                  "value": "BESTAND",
+                  "displayValue": "Bestand"
+                },
+                "count": 1,
+                "corpName": " Archiv der Lippischen Landeskirche",
+                "mandant": "412",
+                "permalink": "https://www.archive.nrw.de/ms/search?link=BESTAND-A92x05038088560104320220210101553727",
+                "nodeid": "BESTAND-A92x05038088560104320220210101553727",
+                "signatur": "02.02.01",
+                "invisible": true,
+                "unorderable": true
+              },
+              {
+                "sortId": 532267,
+                "id": "532267",
+                "eadId": "A92x42879730463027920220210101553742",
+                "title": "Mitarbeiterinnen, Mitarbeiter LKA (Angestellte, Beamte)",
+                "type": {
+                  "value": "BESTAND",
+                  "displayValue": "Bestand"
+                },
+                "count": 1,
+                "corpName": " Archiv der Lippischen Landeskirche",
+                "mandant": "412",
+                "permalink": "https://www.archive.nrw.de/ms/search?link=BESTAND-A92x42879730463027920220210101553742",
+                "nodeid": "BESTAND-A92x42879730463027920220210101553742",
+                "signatur": "02.02.02",
+                "metadata": [
+                  {
+                    "label": "Ohne  Label,  aber  fett,  wird  als erster Teil des Titels angezeigt",
+                    "value": ["Mitarbeiterinnen, Mitarbeiter LKA (Angestellte, Beamte)"]
+                  },
+                  {
+                    "label": "Ohne Label, aber fett, wird nach der    Signatur    und    einem Schrägstrich als zweiter Teil des Titels angezeigt",
+                    "value": ["Kleiner blauer namenloser Plüschhund mit abgelutschten Pfoten"]
+                  },
+                  {
+                    "label": "Laufzeit",
+                    "value": ["1951"]
+                  },
+                  {
+                    "label": "Bestandsgeschichte",
+                    "value": ["Farbverbesserung der Tallölfraktionen durch Behandlung der Seife-Abschäume."]
+                  },
+                  {
+                    "label": "Inhalt",
+                    "value": [
+                      "Anschließend die Luftblasen entweichen lassen und abschäumen.",
+                      "Nach Abschluss des Korrektur- oder Abstimmungsprozesses wird das Dokument inklusive Kommentaren über Brandmaker wieder an den Ersteller übermittelt, dieser kann dann die Änderungen im Web-to-Print-Modul durchführen."
+                    ]
+                  },
+                  {
+                    "label": "Literatur",
+                    "value": ["Komplettes Reinigungsset für Aquarienpumpen, Filter und Abschäumer in einem Kunststoffbehälter."]
+                  },
+                  {
+                    "label": "Umfang",
+                    "value": ["Während der Behandlung müssen Abschäumer und Kohlefilter abgeschaltet werden."]
+                  },
+                  {
+                    "label": "Verweis,  als  kommaseparierte Liste anzeigen",
+                    "value": ["EHEIM Skim marine 300kompakter Abschäumer, bis 300 L169.95 € Aqua Medic Einweißabschäumer K1 Die Abschäumer der Aqua Medic K-Serie sind sehr leistungsstarke und regelbare Abschäumer für das Filterbecken."]
+                  },
+                  {
+                    "label": "Bestand gesperrt",
+                    "value": ["Care Bacter ist eine ideale Ergänzung zu technischen Anlagen wie Aquarienfiltern oder leistungsstarken Abschäumern."]
+                  },
+                  {
+                    "label": "Grund der Sperrung",
+                    "value": ["Die Materialien des Abschäumers sind für eine lange Funktion wichtig."]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sortId": 532268,
+        "id": "532268",
+        "eadId": "A92x31123107671737620220210101553727",
+        "title": "Klassen",
+        "type": {
+          "value": "TEKTONIKPUNKT",
+          "displayValue": "Tektonikknoten"
+        },
+        "count": 9,
+        "corpName": " Archiv der Lippischen Landeskirche",
+        "mandant": "412",
+        "permalink": "https://www.archive.nrw.de/ms/search?link=TEKTONIK-A92x31123107671737620220210101553727",
+        "nodeid": "TEKTONIK-A92x31123107671737620220210101553727",
+        "signatur": "03",
+        "metadata": [
+          {
+            "label": "Als Titel anzeigen",
+            "value": ["Klassen"]
+          },
+          {
+            "label": "Beschreibung",
+            "value": ["Die hat mich angetatscht wie eine reife Tomate."]
+          },
+          {
+            "label": "Literatur",
+            "value": ["Sie hat voreilige Schlüsse gezogen und ist abgerauscht."]
+          },
+          {
+            "label": "Bemerkung",
+            "value": ["Na ja, wir haben nur die Bretzeln... von denen Bob Rooney das Salz abgelutscht hat."]
+          },
+          {
+            "label": "Hinweis",
+            "value": [
+              "Neben den großen, der Gesellschaft abgelauschten Themen hat Piazzolla auch sein ganz eigenes Erleben in Musik gesetzt.",
+              "M. Schmidt: Die Empfehlung des RFID-Expertenkreises ist das Ergebnis eines langjährigen Abstimmungsprozesses. Schlussendlich hat sich die Praxis durchgesetzt."
+            ]
+          },
+          {
+            "label": "Verweis,  als  kommaseparierte  Liste anzeigen",
+            "value": ["Ich weiß, dass du Fred nie so abgelutschte Komplimente gemacht hast."]
+          }
+        ]
+      },
+      {
+        "sortId": 532277,
+        "id": "532277",
+        "eadId": "A92x22150027751922620220210101553727",
+        "title": "Kirchengemeinden",
+        "type": {
+          "value": "TEKTONIKPUNKT",
+          "displayValue": "Tektonikknoten"
+        },
+        "count": 1712,
+        "corpName": " Archiv der Lippischen Landeskirche",
+        "mandant": "412",
+        "permalink": "https://www.archive.nrw.de/ms/search?link=TEKTONIK-A92x22150027751922620220210101553727",
+        "nodeid": "TEKTONIK-A92x22150027751922620220210101553727",
+        "signatur": "04",
+        "metadata": [
+          {
+            "label": "Als Titel anzeigen",
+            "value": ["Kirchengemeinden"]
+          },
+          {
+            "label": "Beschreibung",
+            "value": ["Lemnos - Hochkultur der Amazonen in der Ägäis"]
+          },
+          {
+            "label": "Literatur",
+            "value": ["Regeln und Geschichte zum Spiel der Amazonen auf Wikipedia."]
+          },
+          {
+            "label": "Bemerkung",
+            "value": [
+              "Die Geschichte der Amazonen und Nhamundá",
+              "Kann innerhalb eines Monats nach Einleitung des Abstimmungsprozesses keine für alle Seiten annehmbare Lösung gefunden werden, so wird ein Schiedsverfahren bei der Beschwerdekammer eingeleitet."
+            ]
+          },
+          {
+            "label": "Hinweis",
+            "value": ["Bin für die Amazonenameise."]
+          },
+          {
+            "label": "Verweis,  als  kommaseparierte  Liste anzeigen",
+            "value": ["Zu seinen Kreationen gehören u. a. die Superheldin Blunder Broad und die amazonenhafte Princkazons."]
+          }
+        ],
+        "children": [
+          {
+            "archivName": " Archiv der Lippischen Landeskirche",
+            "archivType": "KIRCHLICHE_ARCHIVE",
+            "sortId": 532281,
+            "id": "532281",
+            "eadId": "A92x66452139616012520220210101553742",
+            "title": "Biemsen-Ahmsen (ev.-luth.)",
+            "type": {
+              "value": "BESTAND",
+              "displayValue": "Bestand"
+            },
+            "count": 1,
+            "corpName": " Archiv der Lippischen Landeskirche",
+            "mandant": "412",
+            "permalink": "https://www.archive.nrw.de/ms/search?link=BESTAND-A92x66452139616012520220210101553742",
+            "nodeid": "BESTAND-A92x66452139616012520220210101553742",
+            "signatur": "04.07",
+            "children": [
+              {
+                "archivName": " Archiv der Lippischen Landeskirche",
+                "archivType": "KIRCHLICHE_ARCHIVE",
+                "sortId": 20601,
+                "id": "20601",
+                "eadId": "A92x66452139616012520220210101553742",
+                "title": "Biemsen-Ahmsen (ev.-luth.)",
+                "type": {
+                  "value": "FINDBUCH",
+                  "displayValue": "Findbuch"
+                },
+                "count": 1,
+                "corpName": " Archiv der Lippischen Landeskirche",
+                "mandant": "412",
+                "permalink": "https://www.archive.nrw.de/ms/search?link=FINDBUCH-A92x66452139616012520220210101553742",
+                "nodeid": "FINDBUCH-A92x66452139616012520220210101553742",
+                "rootKlassifikationKnotenSignatur": "04.07",
+                "rootKlassifikationKnotenTitle": "Biemsen-Ahmsen (ev.-luth.)",
+                "creationDate": "2023-03-27+01:00",
+                "scopeContent": "Zur Geschichte der Kirchengemeinde Biemsen-Ahmsen<br /><br />Pfarrer Ernst-August Korf, der einst in der ehemaligen Kirchengemeinde Biemsen-Ahmsen tätig war (1985-2006), hat im August 2015 einige wenige Unterlagen aus seinem Privatbesitz gebracht. Hierbei handelt es sich um Chroniken der Kirchengemeinde Biemsen-Ahmsen, Gemeindebriefe und Konfirmandenfotos.<br /><br />Die Kirchengemeinde Biemsen-Ahmsen wurde 1972 aus Teilen der Gemeinden Elverdissen und Lockhausen gegründet. Nach nur 34 Jahre langer Eigenständigkeit wurde die Gemeinde 2006 mit der Kirchengemeinde Lockhausen zur Kirchengemeinde Lockhausen-Ahmsen fusioniert. Die Kirche in Ahmsen wurde am 14. Juni 2015 entweiht.<br />Die Freie evangelische Gemeinde Lebendige Hoffnung e.V. aus Herford hatte im vergangenen Jahr Kirche und Gemeindehaus von der evangelischen Kirchengemeinde Lockhausen-Ahmsen gekauft. Beerdigungen aus der Kirche werden dennoch weiter möglich sein, die seelsorgerliche Begleitung vor Ort bleibt gewährleistet. Hintergrund des Verkaufs waren die über Jahre zu geringe Auslastung von Kirche und Gemeindehaus in Ahmsen und die sinkenden Mitgliederzahlen. Die rund 800 Ahmser Gemeindemitglieder nutzen nun die nur wenige Kilometer entfernte Kirche und das Gemeindehaus in Lockhausen. Aber auch in Ahmsen werden künftig Gottesdienste stattfinden – zu besonderen Anlässen an unterschiedlichen Orten.<br /><br />Benutzung und Recherche<br />Nach Unterzeichnung eines Benutzungsantrages und Anerkennung der Benutzungsordnung können Akten des Gemeindearchivs unter Beachtung der Sperr-/Schutzfristen sowie der datenschutzwürdigen Belange Dritter eingesehen werden. Bei Verwendung von Inhalten ist die Fundstelle anzugeben. Die richtige Zitierweise ist wie folgt:  Archiv der Lippischen Landeskirche, Bestand 04.07/Kirchengemeinde Biemsen-Ahmsen (ev.-luth.) Nr. … (hier folgt die Nummer der Akte).<br /><br />Detmold, verfasst von<br /><br />Maja Schneider<br />",
+                "signatur": "04.07",
+                "bestandTitle": "Biemsen-Ahmsen (ev.-luth.)",
+                "bestandNodeId": "BESTAND-A92x66452139616012520220210101553742",
+                "bestandSignature": "04.07"
+              }
+            ]
+          },
+          {
+            "archivName": " Archiv der Lippischen Landeskirche",
+            "archivType": "KIRCHLICHE_ARCHIVE",
+            "sortId": 532284,
+            "id": "532284",
+            "eadId": "A92x93666023015975920220210101553727",
+            "title": "Blomberg (ev.-ref.)",
+            "type": {
+              "value": "BESTAND",
+              "displayValue": "Bestand"
+            },
+            "count": 1,
+            "corpName": " Archiv der Lippischen Landeskirche",
+            "mandant": "412",
+            "permalink": "https://www.archive.nrw.de/ms/search?link=BESTAND-A92x93666023015975920220210101553727",
+            "nodeid": "BESTAND-A92x93666023015975920220210101553727",
+            "signatur": "04.16",
+            "scopeContent": "Akten ab Ende 17. Jh. bis  ca. 1970<br />",
+            "children": [
+              {
+                "sortId": 20602,
+                "id": "20602",
+                "eadId": "A92x93666023015975920220210101553727",
+                "title": "Blomberg (ev.-ref.)",
+                "type": {
+                  "value": "FINDBUCH",
+                  "displayValue": "Findbuch"
+                },
+                "count": 1,
+                "corpName": " Archiv der Lippischen Landeskirche",
+                "mandant": "412",
+                "permalink": "https://www.archive.nrw.de/ms/search?link=FINDBUCH-A92x93666023015975920220210101553727",
+                "nodeid": "FINDBUCH-A92x93666023015975920220210101553727",
+                "rootKlassifikationKnotenSignatur": "04.16",
+                "rootKlassifikationKnotenTitle": "Blomberg (ev.-ref.)",
+                "creationDate": "2023-03-27+01:00",
+                "scopeContent": "Akten ab Ende 17. Jh. bis  ca. 1970<br />",
+                "signatur": "04.16",
+                "bestandTitle": "Blomberg (ev.-ref.)",
+                "bestandNodeId": "BESTAND-A92x93666023015975920220210101553727",
+                "bestandSignature": "04.16",
+                "metadata": [
+                  {
+                    "label": "Ohne Label, aber fett, wird als erster Teil des Titels angezeigt",
+                    "value": ["Blomberg (ev.-ref.)"]
+                  },
+                  {
+                    "label": "Ohne  Label,  aber  fett,  wird  nach  der Signatur  und  einem  Schrägstrich  als zweiter Teil des Titels angezeigt",
+                    "value": ["Verfahren nach Anspruch 1, bei dem der Schritt des Abtastens einer Lochung den Schritt des Abtastens der Lochung, während der Film über die Filmebene läuft, aufweist."]
+                  },
+                  {
+                    "label": "Laufzeit",
+                    "value": ["1957"]
+                  },
+                  {
+                    "label": "Einleitung",
+                    "value": ["Du meinst wohl, was du ihr antatest."]
+                  },
+                  {
+                    "label": "Literatur",
+                    "value": ["Das war das Schlimmste, was du mir je antatest, Mutter!"]
+                  },
+                  {
+                    "label": "Verweis,  als  kommaseparierte  Liste anzeigen",
+                    "value": [
+                      "Die Gründe für die Verzögerung des internen Abstimmungsprozesses auf polnischer Seite wurden von der Bundesregierung trotz wiederholter Nachfrage nicht bekannt gegeben.",
+                      "Die Unterseite der Abdeckhaube (7) wird von einem Schaber (15) mittels einer periodischen Hinundher-Bewegung kontinuierlich gereinigt."
+                    ]
+                  },
+                  {
+                    "label": "Unsichtbar bis",
+                    "value": [
+                      "Diese werden im Rahmen eines offenen Abstimmungsprozesses solange optimiert bis eine perfekte Lösung gefunden wird.",
+                      "Vorrichtung nach einem der Ansprüche 7 oder 8, dadurch gekennzeichnet, daß die Abdeckhauben (22-24) von den Transport- und Ablaufrinnen (14-16) abschwenkbar sind."
+                    ]
+                  },
+                  {
+                    "label": "Grund der Sperrung",
+                    "value": ["Die Kombination aus Funktion und Design ist der zentrale Aspekt bei der Konstruktion individueller Abdeckhauben und Verkleidungen."]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "archivName": " Archiv der Lippischen Landeskirche",
+            "archivType": "KIRCHLICHE_ARCHIVE",
+            "sortId": 532288,
+            "id": "532288",
+            "eadId": "A92x74977797269821120220210101553727",
+            "title": "Detmold-Ost (ev.-ref.)",
+            "type": {
+              "value": "BESTAND",
+              "displayValue": "Bestand"
+            },
+            "count": 1,
+            "corpName": " Archiv der Lippischen Landeskirche",
+            "mandant": "412",
+            "permalink": "https://www.archive.nrw.de/ms/search?link=BESTAND-A92x74977797269821120220210101553727",
+            "nodeid": "BESTAND-A92x74977797269821120220210101553727",
+            "signatur": "04.23",
+            "children": [
+              {
+                "sortId": 20604,
+                "id": "20604",
+                "eadId": "A92x74977797269821120220210101553727",
+                "title": "Detmold-Ost (ev.-ref.)",
+                "type": {
+                  "value": "FINDBUCH",
+                  "displayValue": "Findbuch"
+                },
+                "count": 1,
+                "corpName": " Archiv der Lippischen Landeskirche",
+                "mandant": "412",
+                "permalink": "https://www.archive.nrw.de/ms/search?link=FINDBUCH-A92x74977797269821120220210101553727",
+                "nodeid": "FINDBUCH-A92x74977797269821120220210101553727",
+                "rootKlassifikationKnotenSignatur": "04.23",
+                "rootKlassifikationKnotenTitle": "Detmold-Ost (ev.-ref.)",
+                "creationDate": "2023-03-27+01:00",
+                "signatur": "04.23",
+                "bestandTitle": "Detmold-Ost (ev.-ref.)",
+                "bestandNodeId": "BESTAND-A92x74977797269821120220210101553727",
+                "bestandSignature": "04.23"
+              }
+            ]
+          },
+          {
+            "archivName": " Archiv der Lippischen Landeskirche",
+            "archivType": "KIRCHLICHE_ARCHIVE",
+            "sortId": 532290,
+            "id": "532290",
+            "eadId": "A92x31763106584548920220210101553727",
+            "title": "Donop (ev.-ref.)",
+            "type": {
+              "value": "BESTAND",
+              "displayValue": "Bestand"
+            },
+            "count": 1,
+            "corpName": " Archiv der Lippischen Landeskirche",
+            "mandant": "412",
+            "permalink": "https://www.archive.nrw.de/ms/search?link=BESTAND-A92x31763106584548920220210101553727",
+            "nodeid": "BESTAND-A92x31763106584548920220210101553727",
+            "signatur": "04.18",
+            "children": [
+              {
+                "sortId": 20696,
+                "id": "20696",
+                "eadId": "A92x31763106584548920220210101553727",
+                "title": "Donop (ev.-ref.)",
+                "type": {
+                  "value": "FINDBUCH",
+                  "displayValue": "Findbuch"
+                },
+                "count": 1,
+                "corpName": " Archiv der Lippischen Landeskirche",
+                "mandant": "412",
+                "permalink": "https://www.archive.nrw.de/ms/search?link=FINDBUCH-A92x31763106584548920220210101553727",
+                "nodeid": "FINDBUCH-A92x31763106584548920220210101553727",
+                "rootKlassifikationKnotenSignatur": "04.18",
+                "rootKlassifikationKnotenTitle": "Donop (ev.-ref.)",
+                "creationDate": "2023-04-03+01:00",
+                "signatur": "04.18",
+                "bestandTitle": "Donop (ev.-ref.)",
+                "bestandNodeId": "BESTAND-A92x31763106584548920220210101553727",
+                "bestandSignature": "04.18"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "archivType": "KOMMUNALE_ARCHIVE",
+    "sortId": 1048,
+    "id": "1048",
+    "eadId": "DE-2261",
+    "title": " Kreisarchiv des Märkischen Kreises",
+    "type": {
+      "value": "ARCHIV",
+      "displayValue": "Archiv"
+    },
+    "count": 28324,
+    "mandant": "187",
+    "permalink": "http://www.archive.nrw.de/ms/search?link=ARCHIV-DE-2261",
+    "nodeid": "ARCHIV-DE-2261",
+    "published": false,
+    "creationDate": "2020-10-26+01:00",
+    "divisionId": "7b5648e0-aeb7-40d1-a426-a6e2a209bb9a",
+    "children": [
+      {
+        "sortId": 191788,
+        "id": "191788",
+        "eadId": "A92x25871169567108120201019111627486",
+        "title": "Archivgut aus der eigenen Verwaltung und deren Vorläufern",
+        "type": {
+          "value": "TEKTONIKPUNKT",
+          "displayValue": "Tektonikknoten"
+        },
+        "count": 9954,
+        "corpName": " Kreisarchiv des Märkischen Kreises",
+        "mandant": "187",
+        "permalink": "http://www.archive.nrw.de/ms/search?link=TEKTONIK-A92x25871169567108120201019111627486",
+        "nodeid": "TEKTONIK-A92x25871169567108120201019111627486",
+        "signatur": "01.00.00",
+        "children": [
+          {
+            "sortId": 191789,
+            "id": "191789",
+            "eadId": "A92x69682860374450620201019111627487",
+            "title": "Kreisverwaltung Altena",
+            "type": {
+              "value": "TEKTONIKPUNKT",
+              "displayValue": "Tektonikknoten"
+            },
+            "count": 4750,
+            "corpName": " Kreisarchiv des Märkischen Kreises",
+            "mandant": "187",
+            "permalink": "http://www.archive.nrw.de/ms/search?link=TEKTONIK-A92x69682860374450620201019111627487",
+            "nodeid": "TEKTONIK-A92x69682860374450620201019111627487",
+            "signatur": "01.01.00",
+            "children": [
+              {
+                "sortId": 191790,
+                "id": "191790",
+                "eadId": "A92x46810919046401920201019111627491",
+                "title": "Bauordnungsamt für den ehemaligen Kreis Altena",
+                "type": {
+                  "value": "BESTAND",
+                  "displayValue": "Bestand"
+                },
+                "count": 1,
+                "corpName": " Kreisarchiv des Märkischen Kreises",
+                "mandant": "187",
+                "permalink": "http://www.archive.nrw.de/ms/search?link=BESTAND-A92x46810919046401920201019111627491",
+                "nodeid": "BESTAND-A92x46810919046401920201019111627491",
+                "signatur": "Al 60 - Bauordnungsamt",
+                "scopeContent": "Der Bauaktenbestand entstammt dem Fachdienst 60 und wurde nach seiner Digitalisierung dem Kreisarchiv übergeben. Bei der Auswahl aus den Massenakten wurde auf einen repräsentativen Querschnitt geachtet. Neben Firmen- und Geschäftsgebäuden wurden auch vereinzelt private Bauvorhaben sowie Erneuerungen und Anbauten übernommen. Im Bestand sind Akten aus den märkischen Kommunen, die kein eigenes Bauamt besitzen, nämlich Nachrodt-Wiblingwerde, Neuenrade, Halver, Schalksmühle und Balve. Die Akten müssen noch umgebettet werden.<br />"
+              },
+              {
+                "sortId": 191791,
+                "id": "191791",
+                "eadId": "A92x03151148557662920201019111627491",
+                "title": "Gertrud-Bäumer-Berufskolleg",
+                "type": {
+                  "value": "BESTAND",
+                  "displayValue": "Bestand"
+                },
+                "count": 147,
+                "corpName": " Kreisarchiv des Märkischen Kreises",
+                "mandant": "187",
+                "permalink": "http://www.archive.nrw.de/ms/search?link=BESTAND-A92x03151148557662920201019111627491",
+                "nodeid": "BESTAND-A92x03151148557662920201019111627491",
+                "signatur": "BS GB",
+                "children": [
+                  {
+                    "sortId": 1856,
+                    "id": "1856",
+                    "eadId": "20018700001182",
+                    "title": "Gertrud-Bäumer-Berufskolleg Lüdenscheid",
+                    "type": {
+                      "value": "FINDBUCH",
+                      "displayValue": "Findbuch"
+                    },
+                    "count": 146,
+                    "corpName": " Kreisarchiv des Märkischen Kreises",
+                    "mandant": "187",
+                    "permalink": "http://www.archive.nrw.de/ms/search?link=FINDBUCH-20018700001182",
+                    "nodeid": "FINDBUCH-20018700001182",
+                    "rootKlassifikationKnotenSignatur": "BS GB",
+                    "rootKlassifikationKnotenTitle": "Gertrud-Bäumer-Berufskolleg Lüdenscheid",
+                    "creationDate": "05.02.2019",
+                    "signatur": "BS GB",
+                    "bestandSignature": "BS GB",
+                    "bestandTitle": "Gertrud-Bäumer-Berufskolleg Lüdenscheid",
+                    "bestandNodeId": "BESTAND-A92x03151148557662920201019111627491",
+                    "children": [
+                      {
+                        "sortId": 36332,
+                        "id": "36332",
+                        "eadId": "300187000011820000002",
+                        "title": "Fachschulen",
+                        "type": {
+                          "value": "KLASSIFIKATIONSPUNKT",
+                          "displayValue": "Klassifikationsknoten"
+                        },
+                        "count": 19,
+                        "corpName": " Kreisarchiv des Märkischen Kreises",
+                        "mandant": "187",
+                        "permalink": "http://www.archive.nrw.de/ms/search?link=KLASSIFIKATION-300187000011820000002",
+                        "nodeid": "KLASSIFIKATION-300187000011820000002",
+                        "rootSignatur": "BS GB",
+                        "rootTitle": "Gertrud-Bäumer-Berufskolleg Lüdenscheid",
+                        "bestandNodeId": "BESTAND-A92x03151148557662920201019111627491",
+                        "bestandSignature": "BS GB",
+                        "bestandTitle": "Gertrud-Bäumer-Berufskolleg",
+                        "children": [
+                          {
+                            "sortId": 583857,
+                            "id": "583857",
+                            "eadId": "400187000011820000001",
+                            "title": "Gewerbliche Fortbildungsschule für Graveure",
+                            "type": {
+                              "value": "VERZEICHNUNGSEINHEIT",
+                              "displayValue": "Verzeichnungseinheit"
+                            },
+                            "count": 1,
+                            "corpName": " Kreisarchiv des Märkischen Kreises",
+                            "mandant": "187",
+                            "permalink": "http://www.archive.nrw.de/ms/search?link=VERZEICHUNGSEINHEIT-400187000011820000001",
+                            "nodeid": "VERZEICHUNGSEINHEIT-400187000011820000001",
+                            "abstrakt": [
+                              " Enth. u. a.:  <br /> Etats der gewerblichen Fortbildungsschule für Graveure, 1888-1891; <br /> Übersicht im Stadtbezirk Lüdenscheid über vorhandene gewerblichen, ländlichen- und ... Fortbildungsschulen, 1889; <br /> Liste über Verteilung der Schüler auf die Gewerbe und Schreiben über Zeit des Unterrichts; <br /> Schreiben über Unterhaltung einer Anstalt, 1889; <br /> Schreiben über vom Unterricht ferngebliebenen Schüler, 1889; <br /> Rechnungen von Oscar Wenck, Buchhandlung in Lüdenscheid, 1888; <br /> Schreiben betreffend die Fortbildungsschule über Sitzung, 1889; <br /> Einladungsschreiben zu Sitzung des Vorstandes der Fortbildungsschule für Graveure, 1889; <br /> Liste der gesamten Graveurschüler während 1889; <br /> Verzeichnis der Schüler der Fortbildungsschule Abt. Werkmeisterlehrlinge, 1889; <br /> Schreiben von Schüler an Bürgermeister über Strafmandat wegen Fernbleiben der Schule, 1889; <br /> Schreiben vom Ministerium für Handel und Gewerbe über Angabe von Ein- und Ausgaben der Fortbildungsschule, 1889; <br /> Schreiben über Versäumnisse des Unterrichts in den gewerblichen Fortbildungsschulen, 1889; <br /> Stundenplan geschrieben von der gewerblichen Fortbildungsschule für Graveure, 1889; <br /> Rechnungen der allgemeinen Fortbildungsschulkasse,1888-1890; <br /> Schreiben vom Ministerium für Handel und Gewerbe über Besuch der Schüler an der gewerblichen Fortbildungsschule, 1889; <br /> Schreiben vom Ministerium für Handel und Gewerbe über Unterhaltung mehrerer Fortbildungsschulen, 1889; <br /> Zugangsgeldlisten der gewerblichen Fortbildungsschule, 1889-1890; <br /> Verzeichnis der Schüler welche die 2. Klasse der Fortbildungsschule für Graveure besuchen, 1889; <br /> Schreiben von der Fortbildungsschule für Gravüre über zu zahlendes Schulgeld, 1889; <br /> Schreiben vom Ministerium für Handel und Gewerbe über Ersparnisse der Gemeinden und Vereine zur Unterstützung der Schulen, 1890; <br /> Haushaltsplan der gewerblichen Fortbildungsschule, 1819- 1894; <br /> Schreiben über Nachweisung der gewerblichen Fortbildungs- und Fachschulen, 1890; <br /> Zusammenstellung der Gravürbetriebe die zur Fortbildungsschule gehören, 1890; <br /> Nachweisung der kaufmännischen Fortbildungsschulen und Lehranstalten im Regierungsbezirk Arnsberg; <br /> Schreiben vom Ministerium für Handel und Gewerbe über Etat der gewerblichen Fortbildungsschule für Graveure, 1889; <br /> Schreiben vom Ministerium für Handel und Gewerbe betreffend Fortbildungsschule, 1890; <br /> Broschüre über Ausstellung von Schülerarbeiten der Zeichenklassen gewerblicher Fach- und Fortbildungsschulen Bayerns, 1890; <br /> Liste über Zu- und Abgang der Fortbildungsschüler in der Abteilung für Werkmeisterlehrlinge, 1890-1891; <br /> Liste der bestehenden Lehrlinge für Graveure an der Fortbildungsschule für Graveure, 1891; <br /> Schreiben vom Regierungspräsidenten über fehlende Unterlagen, 1891; <br /> Lernplan im Zeichnen unterteilt in Unter-, Mittel- und Oberstufe; <br /> Lehrpläne für verschiedene Bereiche, 1891; <br /> Schreiben von Linnepe &amp; Vogelsang über beschäftigen Arbeiter im Unternehmen, 1891; <br /> Schreiben vom Ministerium für Handel und Gewerbe über Fortbildungsschulpflicht, 1891; <br /> Zeugnis eines Werkmeisters, Enth. Siegel, 1891; <br /> Schreiben vom Ministerium für Handel und  Gewerbe über Unterhaltung der Fortbildungsschule, 1891; <br /> Liste der Lehrlinge in den Abteilungen Graveure und Werkmeister; <br /> Schreiben vom Regierungspräsidenten betreffend Fortbildungsschule, 1891; <br /> Schreiben vom Ministerium für Handel und Gewerbe betreffend Fortbildungsschule, 1891; <br /> Einladungsschreiben zu verschiedenen Sitzungen und Veranstaltungen, 1890-1891; <br /> Schreiben an Bürgermeister Selbach über neue Verfügung betreffend Fortbildungsschulen, 1891; <br /> Schrieben betreffend den Besuch der allgemeinen Fortbildungsschule, 1891; <br /> Schreiben über Niederlegung des Lehreramtes an der städt. Fortbildungsschule aus Gesundheitsgründen, 1890; <br /> Liste der Fortbildungsschüler, die einen Ersuch zum Besuche der Fortbildungsschule noch nicht erhalten haben/ die dem Ersuch bisher nicht nachgekommen sind, 1890; <br /> Westdeutsches Gewerbeblatt Nr. 1 u. 2, mit Hervorhebung der &quot;Einladung zur Generalversammlung des Central-Gewerbe-Vereins für Rheinland, Westfalen und benachbarte Bezirke&quot;, 1890; <br /> Nachweisung der vorhandenen gewerblichen Fortbildungs- und Fachschulen, 1891; <br /> Bericht über Sitzung des Vorstandes der Fortbildungsschulen, 1889; <br /> Schreiben über Schülerzahl der Fortbildungsschule, 1889; <br /> Schreiben von Gustav Hüttenbräucker über Zahlungen an die gewerblichen Fortbildungsschulen, 1889; <br /> Schreiben über Leitfäden der allgemeinen Fortbildungsschule, 1889; <br /> Schreiben an Kuratorium der gewerblichen Fortbildungsschule über Entbindung eines Schülers für einen Tag von seiner Schulpflicht, 1889; <br /> Schreiben an Bürgermeister Selbach betreffend Fortbildungsschule, 1890; <br /> Schreiben über Klassen der gewerblichen Fortbildungsschule, 1889; <br /> Schreiben vom Ministerium für Handel und Gewerbe über benötigte Klassen in den vorhandenen Fortbildungsschulen, 1889; <br /> Schreiben vom Ministerium für Handel und Gewerbe über Beschaffung von Holzmodellen für die Zeichenklassen, 1890; <br /> Schreiben vom Regierungspräsidenten betreffend Etat der gewerblichen Fortbildungsschulen, 1890; <br /> Listen über Bäcker und Metzger; <br /> Schreiben mit Liste betreffend Metzger und ihre Betriebe, 1890; <br /> Liste über Schüler die die Fortbildungsschule für Gravuere und Werksmeister besuchen, Sommerhalbjahr, 1890; <br /> verschiedene Schülerlisten, bspw. besuchende Schüler der Zeichenklassen, Schulgeldlisten, 1890; <br /> Schreiben über Sitzung betreffend gewerbliche Fortbildungsschulen, 1891; <br /> Schreiben vom Regierungspräsidenten über Unterricht an der Kunstgewerbeschule, 1890; <br /> Auszug aus dem Protokoll Auf. des Magistrates, 1889; <br /> Schreiben an Bürgermeisteramt betreffend Besuch der allgemeinen Fortbildungsschulen, 1890; <br /> Schreiben vom Magistrat der Stadt Lüdenscheid über Etat der allgemeinen gewerblichen Fortbildungsschulen, 1890; <br /> Schreiben vom Regierungspräsidenten über Schulaufsicht, 1890; <br /> Schreiben an Bürgermeister betreffend Unterrichtszeit, 1890; <br /> Siegellackabdruck der Fortbildungsschule für Graveure und Werkmeister, 1891"
+                            ],
+                            "signatur": "12",
+                            "bestandNodeId": "BESTAND-A92x03151148557662920201019111627491",
+                            "bestaendeId": "BS GB",
+                            "bestaendeTitel": "Gertrud-Bäumer-Berufskolleg",
+                            "unitDate": "1889 - 1891",
+                            "bestandSignature": "BS GB",
+                            "bestandTitle": "Gertrud-Bäumer-Berufskolleg",
+                            "metadata": [
+                              {
+                                "label": "Ohne  Label,  aber  fett,  wird  als erster Teil des Titels angezeigt",
+                                "value": ["Theologinnen und Theologen, Personalakten"]
+                              },
+                              {
+                                "label": "Ohne Label, aber fett, wird nach der    Signatur    und    einem Schrägstrich als zweiter Teil des Titels angezeigt",
+                                "value": ["Falthülle nach Anspruch 1, dadurch gekennzeichnet, daß zwei gleichgroße plissierte Abschnittslängen (d, d) des vorderen Endes (3) aufeinanderliegen."]
+                              },
+                              {
+                                "label": "Laufzeit",
+                                "value": [
+                                  "1950-1958"
+                                ]
+                              },
+                              {
+                                "label": "Bestandsgeschichte",
+                                "value": [
+                                  "Die neuen Leitlinien der Bundesregierung sind das Ergebnis eines umfassenden Abstimmungsprozesses, den das Auswärtige Amt Anfang dieses Jahres angestoßen hat.",
+                                  "Verfahren nach einem der Ansprüche 1 bis 6, dadurch gekennzeichnet, daß bei unterschiedlichen Gefälleangaben für die einzelnen Abschnitte für die Bestimmung des Startsignalbegriffes die tatsächlichen Abschnittslängen und Gefälleaussagen herangezogen werden."
+                                ]
+                              },
+                              {
+                                "label": "Inhalt",
+                                "value": ["Gestrickgebilde nach einem der Ansprüche 1 bis 4, dadurch gekennzeichnet, daß die mindestens eine zusätzliche, der Koppelung dienende Gestrickbahn (13) unterschiedliche Abschnittslängen oder Gesamtlänge und/oder -breite aufweist (z. B. Fig. 7)."]
+                              },
+                              {
+                                "label": "Literatur",
+                                "value": ["LÄNGENANPASSUNG VON ABSCHNITTSLÄNGEN VON DRUCKBAHNEN"]
+                              },
+                              {
+                                "label": "Umfang",
+                                "value": ["Verfahren gemäß irgendeinem der Ansprüche 6 bis 8, das ein Ableiten einer Durchschnittsgeschwindigkeit für den gesamten Satz der Abschnittslängen umfasst, die aus der sich ergebenden Spanne von Zellen berechnet werden."]
+                              },
+                              {
+                                "label": "Verweis,  als  kommaseparierte Liste anzeigen",
+                                "value": ["Die wahre Mächtigkeit der Zone in Bohrloch RR11-71 wird auf etwa 70 bis 80 % der angegebenen Abschnittslängen in der Tiefe geschätzt."]
+                              },
+                              {
+                                "label": "Bestand gesperrt",
+                                "value": ["Die Analysenergebnisse der Bohrungen reichen von Spuren bis zu 27,5 g/t Au und die wahren Mächtigkeiten liegen laut Schätzungen zwischen 70 und 95% der berichteten Abschnittslängen."]
+                              },
+                              {
+                                "label": "Grund der Sperrung",
+                                "value": ["Die insgesamte Neigung des Korridors und der Zonen scheint von fast vertikal bis steil nach Nordosten abfallend zu variieren, weshalb die tatsächlichen Mächtigkeiten der mineralisierten Abschnitte wahrscheinlich zwischen 65 und 80 % der gemeldeten Abschnittslängen betragen."]
+                              }
+                            ]
+                          },
+                          {
+                            "sortId": 583858,
+                            "id": "583858",
+                            "eadId": "400187000011820000002",
+                            "title": "Fortbildungsschule für Fabrikarbeiter Lüdenscheid",
+                            "type": {
+                              "value": "VERZEICHNUNGSEINHEIT",
+                              "displayValue": "Verzeichnungseinheit"
+                            },
+                            "count": 1,
+                            "corpName": " Kreisarchiv des Märkischen Kreises",
+                            "mandant": "187",
+                            "permalink": "http://www.archive.nrw.de/ms/search?link=VERZEICHUNGSEINHEIT-400187000011820000002",
+                            "nodeid": "VERZEICHUNGSEINHEIT-400187000011820000002",
+                            "abstrakt": [
+                              " Enth. u. a.:  <br /> Orts-Statut betreffend die Fortbildungsschule für Fabrikarbeiter in Lüdenscheid, 1902; <br /> Schreiben über Beschluss des Kuratoriums der Fabrikarbeiter u. Fortbildungsschule betreffend Besprechung des Lehrplans, 1903; <br /> Schreiben über Vorbemerkung über die Vorschriften für die Aufstellung von Lehrplänen und das Lehrverfahren im Unterricht; <br /> Lesebuch für Fortbildungs-, Fach-, und Gewerbeschulen nebst fachkundlichen Anhängen, 1901; <br /> Einladungsschreiben zu verschiedenen Veranstaltungen, 1903; <br /> Ausgeschnittener Zeitungsartikel über Eröffnung der Fortbildungsschule für Fabrikarbeiter, 1903; <br /> Liste über benötigte Bücher der Klassen Vorklasse, 3 u. 2 der Fortbildungsschule für Fabrikarbeiter, 1903; <br /> Ausgeschnittener Zeitungsartikel über neues Statut über wöchentliche Krankenunterstützung der Ortskrankenkassen; <br /> Ausgeschnittener Zeitungsartikel über Ausbildung von Lehrern an Fortbildungsschulen; <br /> Orts-Statut betreffend die Fortbildungsschule für Fabrikarbeiter in Lüdenscheid, 1901; <br /> Zeugnis der städtischen Fortbildungsschule zu Lüdenscheid, unausgefüllt; <br /> Pensenverteilung für Klassen der Fortbildungsschule für Fabrikarbeiter, 1903-1906; <br /> Lehrstoffverteilung für Klassen der Fortbildungsschule, 1903-1906; <br /> Entwurf eines Lehrplans für die Fortbildungsschule der Fabrikarbeiter; <br /> Liste über Neuanschaffungen für die 4. Klasse der Fabriarbeiterfortbildungsschule; <br /> Heft &quot;Statut für die Ortskrankenkasse der Fabrikarbeiter zu Lüdenscheid&quot;, 1903; <br /> Schreiben von Lehrer über Verteilung von Unterrichtsstunden mit Bitte um Berücksichtigung ihrer selbst, 1904; <br /> Klassenliste der Fabrikarbeiter-Fortbildungsschule Klasse 2. und Vorklasse, 1904; <br /> Zeichnung eines Schranks mit technischen Daten, 1904; <br /> Mehrere Schreiben/Listen/Rechnungen betreffend Beschaffung von Büchern für die Fortbildungsschule für Fabrikarbeiter, 1904; <br /> Jahresberichte der einzelnen Klassen, 1903; <br /> Konferenzbeschluss der Fabrikarbeiterfortbildungsschule über Beschaffung geeigneter Schriften um den Sonntagsunterricht zu beseitigen, 1904; <br /> Blatt &quot;Der Deutsche Jüngling 1. Band Nr.2&quot; Herausgegeben vom Deutschen Verein für das Fortbildungswesen, 1902; <br /> Mitteilungsschreiben betreffend die Fortbildungsschule für Fabrikarbeiter, 1905; <br /> Schrieben an Kuratorium über Entschuldigen eines Schülers vom Sonntagsunterricht,1905; <br /> Schülerlisten; <br /> Schreiben über soziale Entwickelung des Arbeiterstandes; <br /> Beschlußausfertigung des Kuratoriums der Fabrikarbeiter-Fortbildungsschule betrffend neue Schulzeit, 1905; <br /> Schreiben an das Kuratorium der Fortbildungsschule für Fabrikarbeiter über Einrichten eines Heims für Fabrikarbeiter, 1906; <br /> Schreiben von Lehrer über Bitte um Berücksichtigung bei der  Besetzung der Lehrstelleim Fabrikanten-Heim seiner selbst,1906; <br /> Übersicht über Schülerzahl in Klasse 1a. der Fortbildungsschule für Fabrikarbeiter während des Schuljahres, 1906; <br /> Ausgeschnittener Zeitungsartikel über Entlassung des ersten Jahrgangs der Schule mit namentlicher Auszählung von Schülern mit Auszeichnung; <br /> Jahresberichte von der Fortbildungsschule für Fabrikarbeiter zu Lüdenscheid, 1905; <br /> Ergänzung zu den Jahresberichten, 1905; <br /> Bestellzettel auf Rechnung der Fabrikanten-Fortbildungsschule über &quot;Zeitz, Kriegserinnerungen ; Brandt, Aus eigener Kraft ; ...,Auf weiter Fahrt&quot;, 1906; <br /> Schreiben betreffend Theateraufführungen, 1907; <br /> Schreiben vom Minister für Handel und Gewerbe über Ausstellen von Bescheinigungen über die Teilnahme an Ausbildungskursen für Fortbildungsschullehrer, 1911; <br /> "
+                            ],
+                            "signatur": "14",
+                            "bestandNodeId": "BESTAND-A92x03151148557662920201019111627491",
+                            "bestaendeId": "BS GB",
+                            "bestaendeTitel": "Gertrud-Bäumer-Berufskolleg",
+                            "unitDate": "1901 - 1911",
+                            "bestandSignature": "BS GB",
+                            "bestandTitle": "Gertrud-Bäumer-Berufskolleg",
+                            "metadata": [
+                              {
+                                "label": "Beteiligte",
+                                "value": {
+                                  "columns": [
+                                    "Status",
+                                    "Name",
+                                    "Vorname",
+                                    "Geburtsname",
+                                    "Wohnsitz",
+                                    "Titel",
+                                    "Beruf",
+                                    "Geburtsdatum",
+                                    "Nationalität",
+                                    "Todesdatum"
+                                  ],
+                                  "data": [
+                                    [
+                                      "Kläger",
+                                      "Name",
+                                      " ",
+                                      "Geburtsname",
+                                      "Wohnsitz",
+                                      "Titel",
+                                      "Beruf",
+                                      " ",
+                                      "DE",
+                                      "01.01.1950"
+                                    ],
+                                    [
+                                      "Beklagter",
+                                      "Name",
+                                      "Vorname",
+                                      " ",
+                                      "Wohnsitz",
+                                      "Titel",
+                                      "Beruf",
+                                      " ",
+                                      "DE",
+                                      "01.01.1950"
+                                    ],
+                                    [
+                                      "Beschuldigter",
+                                      "Name",
+                                      "Vorname",
+                                      "Geburtsname",
+                                      "Wohnsitz",
+                                      "Titel",
+                                      "Beruf",
+                                      " ",
+                                      "DE",
+                                      "01.01.1950"
+                                    ],
+                                    [
+                                      "Berechtigter",
+                                      "Name",
+                                      " ",
+                                      " ",
+                                      "Wohnsitz",
+                                      "Titel",
+                                      "Beruf",
+                                      " ",
+                                      "DE",
+                                      "01.01.1950"
+                                    ],
+                                    [
+                                      "Pflichtiger",
+                                      "Name",
+                                      "Vorname",
+                                      " ",
+                                      "Wohnsitz",
+                                      "Titel",
+                                      "Beruf",
+                                      " ",
+                                      "RUS",
+                                      "01.01.1950"
+                                    ],
+                                    [
+                                      "Verteidiger",
+                                      "Name",
+                                      "Vorname",
+                                      "Geburtsname",
+                                      "Wohnsitz",
+                                      "Titel",
+                                      "Beruf",
+                                      " ",
+                                      "RUS",
+                                      "01.01.1950"
+                                    ]
+                                  ]
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "sortId": 583859,
+                            "id": "583859",
+                            "eadId": "400187000011820000003",
+                            "title": "Fahrschule an der städtischen Fortbildungsschule in Lüdenscheid",
+                            "type": {
+                              "value": "VERZEICHNUNGSEINHEIT",
+                              "displayValue": "Verzeichnungseinheit"
+                            },
+                            "count": 1,
+                            "corpName": " Kreisarchiv des Märkischen Kreises",
+                            "mandant": "187",
+                            "permalink": "http://www.archive.nrw.de/ms/search?link=VERZEICHUNGSEINHEIT-400187000011820000003",
+                            "nodeid": "VERZEICHUNGSEINHEIT-400187000011820000003",
+                            "abstrakt": [
+                              " Enth. u. a.:  <br /> Antrag des deutschen Transportarbeiter Verbandes betreffend Errichtung einer kommunalen Fahr- und Fachschule für Kraftwagenführer und Kutscher und Fuhrleute, 1919; <br /> Schreiben vom Vertrauensmann für die militärische Vorbereitung der Jugend im Regierungsbezirk Arnsberg über die Abgabe von Anträgen und Fahrscheinen, 1915; <br /> Schreiben an das Kuratorium der städt. Fortbildungsschule über Einrichtung einer Fahrschule für Kutscher, Fuhrleute und Kraftfahrer an der städt. Fortbildungsschule, 1919; <br /> Schreiben über Fahr- und Fachkursus für Kutscher und Fuhrleute, 1920; <br /> Liste über angemeldete Schüler der städt. Fahrschule, 1920; <br /> Liste über Teilnehmer am Fahrkursus, 1920; <br /> &quot;Prospekt der Leipziger Fahrschule. Gegründet 1903 als erste öffentliche Fahrschule in Deutschland&quot; (Fahrschule für Pferdekutschen); <br /> Stundenplan der Leipziger Fahrschule; <br /> Bescheinigungsschreiben der Vereinigung Leipziger Fuhrwerks- und Pferde-Besitzer, unausgefüllt; <br /> Schreiben über Lehrplan der Leipziger Fahrschule; <br /> Schreiben über Prüfung der städt. Fahrschule Lüdenscheid, mit Zeitungsartikel anhängend; <br /> Schreiben an die städtische Fortbildungsschule über Teilnehmer an Prüfungskommission, 1920; <br /> Prüfungsfragen mit Antworten der Fahrschule; <br /> Schreiben über Prüfung der städt. Fahrschule Lüdenscheid, 1920; <br /> Schreiben an das Stadtbauamt über ausgefallenen Unterricht und damit verbundene Beschwerde der Teilnehmer, 1920; <br /> Schreiben der städt. Berufsschulen aus Iserlohn über Einrichtung einer Fahrschule mit Bitte um Zusendung von einem Lehrplan für diese Gruppe, 1922; <br /> Schreiben an Direktor Brinkmann über behandelten Stoff in dem Fortbildungsschulunterricht für Fuhrleute, 1920; <br /> Schreiben an Direktor Brinkmann über Kursus der Fuhrleute, 1920. <br />  <br /> "
+                            ],
+                            "signatur": "15",
+                            "bestandNodeId": "BESTAND-A92x03151148557662920201019111627491",
+                            "bestaendeId": "BS GB",
+                            "bestaendeTitel": "Gertrud-Bäumer-Berufskolleg",
+                            "unitDate": "1915 - 1922",
+                            "bestandSignature": "BS GB",
+                            "bestandTitle": "Gertrud-Bäumer-Berufskolleg",
+                            "hasDips": false,
+                            "hasMets": false,
+                            "metadata": [
+                              {
+                                "label": "Beschreibung",
+                                "value": "In den Geheimverträgen Napoleons mit den Königen von Preußen und Baiern über die Abtretung der Herzogtümer Kleve und Berg an einen von Napoleon zu bestimmenden Prinzen des Heiligen Römischen Reiches wurde das Großherzogtum Berg am 15. März 1806 aus dem rechtsrheinischen Teil des bisherigen Herzogtums Kleve und dem bisherigen Herzogtum Berg gebildet. Der neue Staat wurde dem Schwager Napoleons, Joachim Murat, erblich überlassen - bis zur Rückübertragung auf den französischen Kaiser im Juli 1808. 1809 folgte die Übertragung an den minderjährigen Neffen Napoleons, Ludwig. Napoleon behielt sich bis zu dessen Volljährigkeit die Regierungsführung vor. <p/> Nach der Gründung wurde das Großherzogtum flächenmäßig erweitert. Bis zum November 1806 kamen hinzu: Stadt und Amt Deutz, Stadt und Amt Königswinter, Amt Vilich, die Herrschaften Limburg-Styrum, Broich, Hardenberg, Gimborn-Neustadt, Wildenburg, die Grafschaft Homburg, die Grafschaft Siegen mit Dillenburg, Hadamar, Runkel, Westerburg, Schönstein/ Sieg, die Grafschaften Bentheim, Steinfurt, Horstmar, Rheina-Wolbeck, die Stifte Essen und Elten sowie die Abtei Werden. 1808 desweiteren die Grafschaft Mark mit Lippstadt, das preußische Münsterland, Dortmund, die Grafschaften Lingen und Tecklenburg und 1811 das Vest Recklinghausen. Ausgegliedert wurden hingegen: 1808 die Festung Wesel und 1810 das Land nördlich der Lippe mit den Kantonen Rees, Emmerich, Ringenberg sowie fast das gesamte Emsdepartement (außer den Kantonen Warendorf, Sassenberg und Sendenhorst). <p/> Die Flächengröße des Großherzogtums Berg betrug zur Zeit der Gründung 94 Quadratmeilen mit ca. 374.000 Einwohnern. 1809 hatte es die größte Ausdehnung mit 306 Quadratmeilen und rund 928.000 Einwohnern. <p/> Nach der Gründung des Großherzogtums wurde die öffentliche Verwaltung zunächst durch die Justiz- und Polizeibeamten wie bislang weitergeführt. Leiter der Regierung wurde Jean Antoine Michel Agar, der daneben für Finanzen und auswärtige Angelegenheiten zuständig war. Seit der Rückübertragung des Landes auf Napoleon verwaltete Jacques Beugnot als kaiserlicher Regierungskommissar das Großherzogtum. <p/> Die Ämterverfassung wurde abgeschafft und nach französischem Vorbild Departements und Arrondissements eingerichtet. Im ehemaligen Herzogtum Berg waren dies Siegburg, Mülheim, Elberfeld und Düsseldorf und im ehemaligen Herzogtum Kleve Duisburg und Wesel plus die Arrondissements Steinfurt im Norden und Dillenburg im Süden. Diesen Verwaltungseinheiten stand ein Provinzialrat vor. In den Gemeinden wurde die französische Munizipalverwaltung mit Maire, Adjunkt, Polizeikommissar und Munizipalräten eingeführt. Eine neue Departementaleinteilung trat im November 1808 in Kraft. Seither bestanden vier Departements (Rhein-, Sieg-, Ruhr- und Emsdepartement) mit insgesamt zwölf Arrondissements und 78 Kantonen, die 91 Städte und 1706 Gemeinden umfassten. Im Dezember 1808 wurden Provinzialverwaltungsbehörden eingerichtet, wie sie früher im Königreich Westfalen bestanden. <p/> Am 26. März 1806 leisteten die bergischen Landstände sowie die bisherigen Behörden in der Düsseldorfer Residenz einen Eidschwur auf die neue Herrschaft. Entsprechende Vorgänge wurden im klevischen Landesteil durchgeführt. Anfang September versammelten sich die Stände der früheren verschiedenen Landtage, die im Raum des Großherzogtums existiert hatten (Herzogtümer Berg und Kleve, Fürstentum Horstmar, Grafschaft Bentheim) in Düsseldorf und berieten über eine Konstitution. Im Februar 1807 erfolgte die nächste und auch letzte Einberufung der Stände, die keinen politischen Einfluß mehr geltend machen konnten. <p/> Im wirtschaftlichen Bereich fanden nachhaltige staatliche Eingriffe statt: U.a. wurden Domänen und säkularisierte geistliche Güter verkauft; Bürgerlichen wurde die Möglichkeit eröffnet, adlige Güter zu erwerben, was im Klevischen bislang durch das preußische Landrecht untersagt war; Straßen, wie die zwischen Siegen und Elberfeld wurden mit der Absicht industrieller Förderung geplant und eine neue Kohlenbergwerksverwaltung für Essen und Werden angeordnet. Schließlich fielen die Zollschranken innerhalb des Großherzogtums weg. <p/> In der staatlichen Sozialverwaltung sind Ansätze zur Wohlfahrtspflege und Einrichtung von Krankenanstalten erkennbar. <p/> Im Gerichtswesen wurde auf oberster Ebene der ehemalige bergische Hofrat durch eine sogenannte oberste Landeskurie ersetzt, die als letzte Instanz in allen Landessachen Recht sprach. Alle Sondergerichte wurden aufgehoben. 1810 wurde der Code Civil eingeführt.<p/> Die Armeegröße lag kurz nach der Einrichtung des Großherzogtums bei ca. 2.400 Soldaten; im folgenden Jahr wird ihre Anzahl mit 7.000, 1811/ 1812 mit rund 8.200 angegeben. Danach erfolgte eine weitere Steigerung. Die Konskriptionen wurden von den Einwohnern zunehmend als eine drückende Last empfunden; es kam vielfach zu Desertionen. <p/> Die Bevölkerung war überwiegend katholisch. Die Pfarreien wurden durch die staatliche Verwaltung eingeteilt. Die Vermögensverwaltung der katholischen Kirche führten die Maires durch. Auch die Leitung der beibehaltenen weiblichen geistlichen Kongregationen und Ordenshäuser, die sich wohltätigen Zwecken widmeten, ging an den Staat über. Die protestantische Kirche wurde nach französischem Vorbild organisiert, u.a. wurden die Pastoren durch die staatliche Verwaltung ernannt. Insgesamt war die Kirchenpolitik durch das Bemühen gekennzeichnet, Toleranz gegenüber den konfessionellen Gruppen aufzubringen. <p/> Mit der Besetzung des Großherzogtums durch die Vereinigten Mächte wurde es am 15. November 1813 aufgelöst. Fortan lag die Regierung des Landes - die ehemaligen preußischen Besitzungen Mark, Kleve, Essen, Werden und das Fürstentum Münster ausgenommen - bei dem sog. Generalgouvernement. Derzeit gingen auch Dillenburg, Siegen, Hadamar und Beilstein wieder in den Besitz des Fürsten von Nassau-Oranien über, so dass die Herrschaft des Generalgouvernements sich im wesentlichen auf das ehemalige Herzogtum Berg samt den kurkölnischen Enklaven und Gimborn-Neustadt, Homburg und Wildenburg beschränkte.<p/> Der Bestandsumfang liegt bei 11.828 Bänden mit einer Laufzeit von (1250-) 1806-1813 (-1842) und wird durch die Findbücher 140.30.00 - 140.34.00 erschlossen.<p/>"
+                              },
+                              {
+                                "label": "Laufzeit",
+                                "value": "1925"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "sortId": 36333,
+                        "id": "36333",
+                        "eadId": "300187000011820000003",
+                        "title": "Haushaltspläne Stadt Lüdenscheid",
+                        "type": {
+                          "value": "KLASSIFIKATIONSPUNKT",
+                          "displayValue": "Klassifikationsknoten"
+                        },
+                        "count": 25,
+                        "corpName": " Kreisarchiv des Märkischen Kreises",
+                        "mandant": "187",
+                        "permalink": "http://www.archive.nrw.de/ms/search?link=KLASSIFIKATION-300187000011820000003",
+                        "nodeid": "KLASSIFIKATION-300187000011820000003",
+                        "rootSignatur": "BS GB",
+                        "rootTitle": "Gertrud-Bäumer-Berufskolleg Lüdenscheid",
+                        "bestandNodeId": "BESTAND-A92x03151148557662920201019111627491",
+                        "bestandSignature": "BS GB",
+                        "bestandTitle": "Gertrud-Bäumer-Berufskolleg"
+                      },
+                      {
+                        "sortId": 36334,
+                        "id": "36334",
+                        "eadId": "300187000011820000004",
+                        "title": "Hitlerjugend und BDM",
+                        "type": {
+                          "value": "KLASSIFIKATIONSPUNKT",
+                          "displayValue": "Klassifikationsknoten"
+                        },
+                        "count": 2,
+                        "corpName": " Kreisarchiv des Märkischen Kreises",
+                        "mandant": "187",
+                        "permalink": "http://www.archive.nrw.de/ms/search?link=KLASSIFIKATION-300187000011820000004",
+                        "nodeid": "KLASSIFIKATION-300187000011820000004",
+                        "rootSignatur": "BS GB",
+                        "rootTitle": "Gertrud-Bäumer-Berufskolleg Lüdenscheid",
+                        "bestandNodeId": "BESTAND-A92x03151148557662920201019111627491",
+                        "bestandSignature": "BS GB",
+                        "bestandTitle": "Gertrud-Bäumer-Berufskolleg"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "sortId": 191792,
+                "id": "191792",
+                "eadId": "A92x90021878480911220201019111627490",
+                "title": "Grenzakten",
+                "type": {
+                  "value": "BESTAND",
+                  "displayValue": "Bestand"
+                },
+                "count": 33,
+                "corpName": " Kreisarchiv des Märkischen Kreises",
+                "mandant": "187",
+                "permalink": "http://www.archive.nrw.de/ms/search?link=BESTAND-A92x90021878480911220201019111627490",
+                "nodeid": "BESTAND-A92x90021878480911220201019111627490",
+                "signatur": "GrA",
+                "scopeContent": "entnommen aus dem Bestand von Holtzbrinck<br />",
+                "hasLockChildren": true
+              }
+            ]
+          },
+          {
+            "sortId": 191799,
+            "id": "191799",
+            "eadId": "A92x98786443471908520201019111627487",
+            "title": "Kreisverwaltung Iserlohn",
+            "type": {
+              "value": "TEKTONIKPUNKT",
+              "displayValue": "Tektonikknoten"
+            },
+            "count": 4254,
+            "corpName": " Kreisarchiv des Märkischen Kreises",
+            "mandant": "187",
+            "permalink": "http://www.archive.nrw.de/ms/search?link=TEKTONIK-A92x98786443471908520201019111627487",
+            "nodeid": "TEKTONIK-A92x98786443471908520201019111627487",
+            "signatur": "01.02.00"
+          },
+          {
+            "sortId": 191803,
+            "id": "191803",
+            "eadId": "A92x49384629726409920201019111627487",
+            "title": "Kreisverwaltung Lüdenscheid",
+            "type": {
+              "value": "TEKTONIKPUNKT",
+              "displayValue": "Tektonikknoten"
+            },
+            "count": 521,
+            "corpName": " Kreisarchiv des Märkischen Kreises",
+            "mandant": "187",
+            "permalink": "http://www.archive.nrw.de/ms/search?link=TEKTONIK-A92x49384629726409920201019111627487",
+            "nodeid": "TEKTONIK-A92x49384629726409920201019111627487",
+            "signatur": "01.03.00"
+          },
+          {
+            "sortId": 191805,
+            "id": "191805",
+            "eadId": "A92x25359249114990220201019111627487",
+            "title": "Märkischer Kreis",
+            "type": {
+              "value": "TEKTONIKPUNKT",
+              "displayValue": "Tektonikknoten"
+            },
+            "count": 428,
+            "corpName": " Kreisarchiv des Märkischen Kreises",
+            "mandant": "187",
+            "permalink": "http://www.archive.nrw.de/ms/search?link=TEKTONIK-A92x25359249114990220201019111627487",
+            "nodeid": "TEKTONIK-A92x25359249114990220201019111627487",
+            "signatur": "01.04.00"
+          }
+        ]
+      },
+      {
+        "sortId": 191810,
+        "id": "191810",
+        "eadId": "A92x44173091650009120201019111627486",
+        "title": "Archivgut fremder kommunaler Herkunft",
+        "type": {
+          "value": "TEKTONIKPUNKT",
+          "displayValue": "Tektonikknoten"
+        },
+        "count": 62,
+        "corpName": " Kreisarchiv des Märkischen Kreises",
+        "mandant": "187",
+        "permalink": "http://www.archive.nrw.de/ms/search?link=TEKTONIK-A92x44173091650009120201019111627486",
+        "nodeid": "TEKTONIK-A92x44173091650009120201019111627486",
+        "signatur": "02.00.00"
+      },
+      {
+        "sortId": 191812,
+        "id": "191812",
+        "eadId": "A92x02613264322280820201019111627487",
+        "title": "Kirchen- und Schularchive",
+        "type": {
+          "value": "TEKTONIKPUNKT",
+          "displayValue": "Tektonikknoten"
+        },
+        "count": 76,
+        "corpName": " Kreisarchiv des Märkischen Kreises",
+        "mandant": "187",
+        "permalink": "http://www.archive.nrw.de/ms/search?link=TEKTONIK-A92x02613264322280820201019111627487",
+        "nodeid": "TEKTONIK-A92x02613264322280820201019111627487",
+        "signatur": "03.00.00"
+      }
+    ]
+  },
+  {
+    "archivType": "KOMMUNALE_ARCHIVE",
+    "sortId": 2729,
+    "id": "2729",
+    "eadId": "66527Cop",
+    "title": " Stadtarchiv Dortmund",
+    "type": {
+      "value": "ARCHIV",
+      "displayValue": "Archiv"
+    },
+    "count": 12590,
+    "mandant": "230",
+    "permalink": "https://www.archive.nrw.de/ms/search?link=ARCHIV-66527Cop",
+    "nodeid": "ARCHIV-66527Cop",
+    "published": false,
+    "creationDate": "2022-12-20+01:00",
+    "divisionId": "b023c6ed-6584-42b5-ae5a-caca0ece3b86"
+  },
+  {
+    "archivType": "KOMMUNALE_ARCHIVE",
+    "sortId": 2764,
+    "id": "2764",
+    "eadId": "DE-278",
+    "title": " Stadtarchiv Soest",
+    "type": {
+      "value": "ARCHIV",
+      "displayValue": "Archiv"
+    },
+    "count": 26180,
+    "mandant": "364",
+    "permalink": "https://www.archive.nrw.de/ms/search?link=ARCHIV-DE-278",
+    "nodeid": "ARCHIV-DE-278",
+    "published": false,
+    "creationDate": "2023-02-13+01:00",
+    "divisionId": "b023c6ed-6584-42b5-ae5a-caca0ece3b86",
+    "children": [
+      {
+        "sortId": 532779,
+        "id": "532779",
+        "eadId": "A92x06592911481857220211230134859194",
+        "title": "Stadt Soest, Bestand D (ca. 1933 - ca. 1950)",
+        "type": {
+          "value": "BESTAND",
+          "displayValue": "Bestand"
+        },
+        "count": 3,
+        "corpName": " Stadtarchiv Soest",
+        "mandant": "364",
+        "permalink": "https://www.archive.nrw.de/ms/search?link=BESTAND-A92x06592911481857220211230134859194",
+        "nodeid": "BESTAND-A92x06592911481857220211230134859194",
+        "signatur": "D",
+        "scopeContent": "Standort: Magazin 1<br />",
+        "children": [
+          {
+            "sortId": 1663,
+            "id": "1663",
+            "eadId": "20036400000052",
+            "title": "Stadtarchiv Soest, Bestand D",
+            "type": {
+              "value": "FINDBUCH",
+              "displayValue": "Findbuch"
+            },
+            "count": 3,
+            "corpName": " Stadtarchiv Soest",
+            "mandant": "364",
+            "permalink": "http://www.archive.nrw.de/ms/search?link=FINDBUCH-20036400000052",
+            "nodeid": "FINDBUCH-20036400000052",
+            "rootKlassifikationKnotenSignatur": "D",
+            "rootKlassifikationKnotenTitle": "Stadtarchiv Soest, Bestand D",
+            "creationDate": "05.02.2019",
+            "scopeContent": "EINLEITUNGSeit der ersten Veröffentlichung eines Findbuchs dieses Bestands 1980 in der Reihe der Veröffentlichungen des Stadtarchivs Soest sind mittlerweile über zwanzig Jahre vergangen. In dieser Zeit kamen mehrere hundert Akten aus den Ämtern der Stadtverwaltung, aus den Schulen und den Ortsteilen ins Archiv und wurden hier erfaßt.Neben den Hausakten inzwischen abgebrochener Häuser und auch von Gewerbeanlagen, die fast immer ins vorige Jahrhundert zurückgehen, sind hier vor allem die Personalakten zu nennen. Aber auch die Stadtwerke, das Bauaufsichtsamt, das Grünflächenamt und die Kämmerei haben größere Aktenmengen abgegeben, die eine neue Veröffentlichung des Inventars notwendig machten.Wenn im Jahr 1980 der Bestand D insgesamt 2303 Akten aus der Zeit zwischen 1933 und 1950 umfaßte, so sind nun über 700 Akten nur aus diesem Zeitraum dazu gekommen.Eine Benutzung der hier inventarisierten Akten ist nach dem Archivgesetz des Landes Nordrhein-Westfalen aus dem Jahr 1989 grundsätzlich erst 30 Jahre nach Schließen der Akte, also dem Ende der angegebenen Laufzeit möglich. Soweit das Archivgut Berufs- oder anderen Geheimhaltungsvorschriften unterlag, darf es erst 60 Jahre nach Entstehung benutzt werden. Unterlagen, die sich auf einzelne natürliche Personen beziehen (das ist z. B. regelmäßig bei allen Personal- oder Vormundschaftsakten der Fall) sind frühestens 10 Jahre nach dem Tod bzw. wenn dieses Datum nicht festzustellen ist, 90 Jahre nach Geburt der Person einzusehen. Dabei ist zu beachten, daß die 30-Jahre-Frist auch hier abgelaufen sein muß. Eine Sperrfrist gilt jedoch dann nicht, wenn die Informationen schon bei ihrer Entstehung zur Veröffentlichung bestimmt waren.Das erste Findbuch unserer Archiv-Abteilung D wurde damals mit Zettelkarteien, mechanischer Schreibmaschine und als Teamarbeit von mehreren Personen erstellt. Nachdem der Schreibdienst der Stadtverwaltung Soest in einer immensen Fleißarbeit dieses Findbuch abgeschrieben und somit für eine Bearbeitung am PC bereitgestellt hatte, waren notwendige Redaktionsarbeiten und Ergänzungen leicht zu erledigen.Die hier vorliegende Neubearbeitung aber wurde von Dirk Elbert auf der Grundlage des Inventars von 1980 allein erledigt. Einige Benennungen der Akten, die sich 1980 ausschließlich an den Aktentiteln orientierten, sind von ihm kritisch überprüft und gegebenenfalls inhaltsorientiert ergänzt bzw. erweitert worden.<br />",
+            "signatur": "D",
+            "bestandTitle": "Stadtarchiv Soest, Bestand D",
+            "bestandNodeId": "BESTAND-A92x06592911481857220211230134859194",
+            "bestandSignature": "D",
+            "children": [
+              {
+                "sortId": 29997,
+                "id": "29997",
+                "eadId": "300364000000520000006",
+                "title": "2. Allgemeine Stadtverwaltung",
+                "type": {
+                  "value": "KLASSIFIKATIONSPUNKT",
+                  "displayValue": "Klassifikationsknoten"
+                },
+                "count": 3,
+                "corpName": " Stadtarchiv Soest",
+                "mandant": "364",
+                "permalink": "http://www.archive.nrw.de/ms/search?link=KLASSIFIKATION-300364000000520000006",
+                "nodeid": "KLASSIFIKATION-300364000000520000006",
+                "rootSignatur": "D",
+                "rootTitle": "Stadtarchiv Soest, Bestand D",
+                "bestandNodeId": "BESTAND-A92x06592911481857220211230134859194",
+                "bestandSignature": "D",
+                "bestandTitle": "Stadt Soest, Bestand D (ca. 1933 - ca. 1950)",
+                "children": [
+                  {
+                    "sortId": 29999,
+                    "id": "29999",
+                    "eadId": "300364000000520000008",
+                    "title": "2.2 Stadtverordnete und Ausschüsse",
+                    "type": {
+                      "value": "KLASSIFIKATIONSPUNKT",
+                      "displayValue": "Klassifikationsknoten"
+                    },
+                    "count": 3,
+                    "corpName": " Stadtarchiv Soest",
+                    "mandant": "364",
+                    "permalink": "http://www.archive.nrw.de/ms/search?link=KLASSIFIKATION-300364000000520000008",
+                    "nodeid": "KLASSIFIKATION-300364000000520000008",
+                    "rootSignatur": "D",
+                    "rootTitle": "Stadtarchiv Soest, Bestand D",
+                    "bestandNodeId": "BESTAND-A92x06592911481857220211230134859194",
+                    "bestandSignature": "D",
+                    "bestandTitle": "Stadt Soest, Bestand D (ca. 1933 - ca. 1950)",
+                    "children": [
+                      {
+                        "sortId": 510634,
+                        "id": "510634",
+                        "eadId": "400364000000520000072",
+                        "title": "Niederschriften der Stadtverordnetenversammlung (später Gemeinderäte)",
+                        "type": {
+                          "value": "VERZEICHNUNGSEINHEIT",
+                          "displayValue": "Verzeichnungseinheit"
+                        },
+                        "count": 1,
+                        "corpName": " Stadtarchiv Soest",
+                        "mandant": "364",
+                        "permalink": "http://www.archive.nrw.de/ms/search?link=VERZEICHUNGSEINHEIT-400364000000520000072",
+                        "nodeid": "VERZEICHUNGSEINHEIT-400364000000520000072",
+                        "signatur": "66",
+                        "bestandNodeId": "BESTAND-A92x06592911481857220211230134859194",
+                        "bestaendeId": "D",
+                        "bestaendeTitel": "Stadt Soest, Bestand D (ca. 1933 - ca. 1950)",
+                        "unitDate": "1933 - 1944",
+                        "daogrpDaolocHrefs": [
+                          "https://dfg-viewer.de/show/?tx_dlf[id]=http%3A%2F%2Fftp.soest.de%2Fstas%2Fratsprotokolle%2Fd%252066%2Fmets.xml"
+                        ],
+                        "bestandTitle": "Stadt Soest, Bestand D (ca. 1933 - ca. 1950)",
+                        "bestandSignature": "D",
+                        "invisible": true
+                      },
+                      {
+                        "sortId": 510636,
+                        "id": "510636",
+                        "eadId": "400364000000520000074",
+                        "title": "Niederschriften über die Sitzungen der Stadtvertretung",
+                        "type": {
+                          "value": "VERZEICHNUNGSEINHEIT",
+                          "displayValue": "Verzeichnungseinheit"
+                        },
+                        "count": 1,
+                        "corpName": " Stadtarchiv Soest",
+                        "mandant": "364",
+                        "permalink": "http://www.archive.nrw.de/ms/search?link=VERZEICHUNGSEINHEIT-400364000000520000074",
+                        "nodeid": "VERZEICHUNGSEINHEIT-400364000000520000074",
+                        "signatur": "68a",
+                        "bestandNodeId": "BESTAND-A92x06592911481857220211230134859194",
+                        "bestaendeId": "D",
+                        "bestaendeTitel": "Stadt Soest, Bestand D (ca. 1933 - ca. 1950)",
+                        "unitDate": "1945 - 1948",
+                        "daogrpDaolocHrefs": [
+                          "https://dfg-viewer.de/show/?tx_dlf[id]=http%3A%2F%2Fftp.soest.de%2Fstas%2Fratsprotokolle%2Fd%252068a%2Fmets.xml"
+                        ],
+                        "bestandTitle": "Stadt Soest, Bestand D (ca. 1933 - ca. 1950)",
+                        "bestandSignature": "D",
+                        "unorderable": true,
+                        "longLink": "https://dfg-viewer.de/show/?tx_dlf[id]=http%3A%2F%2Fftp.soest.de%2Fstas%2Fratsprotokolle%2Fd%252068a%2Fmets.xml",
+                        "smallLink": "https://dfg-viewer.de/show/?tx_dlf[id]=http%3A%2F%2Fftp.soest.de%2Fstas%2Fratsprotokolle%2Fd%252068a%2Fmets.xml",
+                        "hasDips": true,
+                        "hasMets": false
+                      },
+                      {
+                        "sortId": 510637,
+                        "id": "510637",
+                        "eadId": "400364000000520000075",
+                        "title": "Niederschriften über die Sitzungen der Stadtvertretung",
+                        "type": {
+                          "value": "VERZEICHNUNGSEINHEIT",
+                          "displayValue": "Verzeichnungseinheit"
+                        },
+                        "count": 1,
+                        "corpName": " Stadtarchiv Soest",
+                        "mandant": "364",
+                        "permalink": "http://www.archive.nrw.de/ms/search?link=VERZEICHUNGSEINHEIT-400364000000520000075",
+                        "nodeid": "VERZEICHUNGSEINHEIT-400364000000520000075",
+                        "signatur": "68b",
+                        "bestandNodeId": "BESTAND-A92x06592911481857220211230134859194",
+                        "bestaendeId": "D",
+                        "bestaendeTitel": "Stadt Soest, Bestand D (ca. 1933 - ca. 1950)",
+                        "unitDate": "1948 - 1952",
+                        "daogrpDaolocHrefs": [
+                          "https://dfg-viewer.de/show/?tx_dlf[id]=http%3A%2F%2Fftp.soest.de%2Fstas%2Fratsprotokolle%2Fd%252068b%2Fmets.xml"
+                        ],
+                        "bestandTitle": "Stadt Soest, Bestand D (ca. 1933 - ca. 1950)",
+                        "bestandSignature": "D",
+                        "longLink": "https://dips-access.lavnrw.local/Access.xhtml?IEID=Abt_Westfalen/Urkundenselekt/Kaiserurkunden/~000/00001/mets.xml&titel=%28%2FKU+1%29+Karl+der+Gro%3Fe+gibt+dem+Assig+den+von+dessen+Vater+%7C+813+Mai+9&signatur=W+701%2FUrkundenselekt%2C+Nr.+KU+1&timestamp=1684831257&modus=lesesaalnutzer&crypt=true",
+                        "smallLink": "https://mets-access.lavnrw.local/Abt_Westfalen/Urkundenselekt/Kaiserurkunden/~000/00010/mets.xml",
+                        "hasDips": false,
+                        "hasMets": true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+    }
+    ]
+  }
+]

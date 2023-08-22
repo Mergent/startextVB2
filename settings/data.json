@@ -1,0 +1,122 @@
+[
+  {
+    "name": "keyword",
+    "fullPath": "/sufservice/search/keyword",
+    "delay": 0,
+    "isErrorRequest": false
+  },
+  {
+    "name": "autocomplete",
+    "fullPath": "/sufservice/search/autocomplete",
+    "delay": 0,
+    "isErrorRequest": false
+  },
+  {
+    "name": "sufServiceDetails",
+    "fullPath": "/sufservice/search/details",
+    "delay": 0,
+    "isErrorRequest": false
+  },
+  {
+    "name": "singleRoot",
+    "fullPath": "/sufservice/tree/singleRoot",
+    "delay": 0,
+    "isErrorRequest": false
+  },
+  {
+    "name": "children",
+    "fullPath": "/sufservice/tree/children",
+    "delay": 0,
+    "isErrorRequest": false
+  },
+  {
+    "name": "getTreeByDocument",
+    "fullPath": "/sufservice/tree/getTreeByDocument",
+    "delay": 0,
+    "isErrorRequest": false
+  },
+  {
+    "name": "archive",
+    "fullPath": "/sufservice/filter/archive",
+    "delay": 0,
+    "isErrorRequest": false
+  },
+  {
+    "name": "findbuch",
+    "fullPath": "/sufservice/filter/findbuch",
+    "delay": 0,
+    "isErrorRequest": false
+  },
+  {
+    "name": "jobs",
+    "fullPath": "/bufservice/jobs",
+    "delay": 0,
+    "isErrorRequest": false
+  },
+  {
+    "name": "findbuchOverview",
+    "fullPath": "/bufservice/findbuchOverview",
+    "delay": 0,
+    "isErrorRequest": false
+  },
+  {
+    "name": "location",
+    "fullPath": "/bufservice/location",
+    "delay": 0,
+    "isErrorRequest": false
+  },
+  {
+    "name": "listRoot",
+    "fullPath": "/bufservice/preview/listRoot",
+    "delay": 0,
+    "isErrorRequest": false
+  },
+  {
+    "name": "listSingleRoot",
+    "fullPath": "/bufservice/preview/listSingleRoot",
+    "delay": 0,
+    "isErrorRequest": false
+  },
+  {
+    "name": "listChildren",
+    "fullPath": "/bufservice/preview/listChildren",
+    "delay": 0,
+    "isErrorRequest": false
+  },
+  {
+    "name": "bufServiceDetail",
+    "fullPath": "/bufservice/preview/details",
+    "delay": 0,
+    "isErrorRequest": false
+  },
+  {
+    "name": "upload",
+    "fullPath": "/bufservice/upload",
+    "delay": 0,
+    "isErrorRequest": false
+  },
+  {
+    "name": "publish",
+    "fullPath": "/bufservice/publish",
+    "delay": 0,
+    "isErrorRequest": false
+  },
+  {
+    "name": "deleteJobs",
+    "fullPath": "DELETE /bufservice/jobs",
+    "delay": 0,
+    "isErrorRequest": false
+  },
+  {
+    "name": "deleteFindbuchOverview",
+    "fullPath": "/bufservice/delete/findbuecher",
+    "delay": 0,
+    "isErrorRequest": false
+  },
+  {
+    "name": "divisions",
+    "fullPath": "/bufservice/divisions",
+    "delay": 0,
+    "isErrorRequest": false
+  }
+]

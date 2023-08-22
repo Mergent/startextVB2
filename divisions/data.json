@@ -1,0 +1,17 @@
+[
+    {
+        "id": "98de449b-863b-4cc9-8929-c92e47beb1b6",
+        "divisionCode": "OWL",
+        "title": "Ostwestfalen-Lippe"
+    },
+    {
+        "id": "7b5648e0-aeb7-40d1-a426-a6e2a209bb9a",
+        "divisionCode": "W",
+        "title": "Westfalen"
+    },
+    {
+        "id": "b023c6ed-6584-42b5-ae5a-caca0ece3b86",
+        "divisionCode": "R",
+        "title": "Rheinland"
+    }
+]

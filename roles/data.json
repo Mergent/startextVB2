@@ -1,0 +1,27 @@
+[
+  {
+    "code": "ROLE_ADMIN",
+    "id": 1,
+    "name": "Fachadministrator"
+  },
+  {
+    "code": "ROLE_MANAGER",
+    "id": 2,
+    "name": "Archivverwaltung"
+  },
+  {
+    "code": "ROLE_PRODUCTION",
+    "id": 3,
+    "name": "Produktion"
+  },
+  {
+    "code": "ROLE_ENTWICKELN",
+    "id": 4,
+    "name": "Sich entwickeln"
+  },
+  {
+    "code": "ROLE_GENERIEREN",
+    "id": 5,
+    "name": "Generieren"
+  }
+]

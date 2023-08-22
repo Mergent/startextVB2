@@ -1,0 +1,91 @@
+{
+  "id": "0ab086eb-89f3-4811-8c1d-bdae798ecf85",
+  "delay": 5,
+  "xmlType": "VERA_TEKTONIK",
+  "filename": "Nichtstaatliches Schriftgut / Archivische Sammlungen Jesuitenmission Arnsberg Archivgut aus der eigenen Verwaltung und deren Vorläufern Gebietsänderungsvertrag Stadt Lüdenscheid ./. Stadt Meinerzhagen vom 06.12.1971 / 17.01.1972",
+  "jobType": "IMPORT",
+  "bestandName": "Nichtstaatliches Schriftgut / Archivische Sammlungen Jesuitenmission Arnsberg Archivgut aus der eigenen Verwaltung und deren Vorläufern Gebietsänderungsvertrag Stadt Lüdenscheid ./. Stadt Meinerzhagen vom 06.12.1971 / 17.01.1972",
+  "bestandSignatur": "АА 0633",
+  "findbuchName": "Nichtstaatliches Schriftgut / Archivische Sammlungen Jesuitenmission Arnsberg Archivgut aus der eigenen Verwaltung und deren Vorläufern Gebietsänderungsvertrag Stadt Lüdenscheid ./. Stadt Meinerzhagen vom 06.12.1971 / 17.01.1972",
+  "findbuchSignatur": "АА 0633",
+  "dips": false,
+  "mets": false,
+  "sperren": true,
+  "children": [
+    {
+      "uploadDate": "2023-04-07T04:14:12.136839Z",
+      "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+      "findbuchDocumentTitle": null,
+      "title": "Politische Parteien und Gruppierungen (S)",
+      "state": "PUBLISHED",
+      "veraEntity": "TEKTONIKPUNKT",
+      "archivParent": null,
+      "bestandParent": null,
+      "findbuchParent": null,
+      "klassifikationspunktParent": null,
+      "serieParent": null,
+      "id": "0a488c62-33d2-4b5a-8ecd-b17ae726642a",
+      "tektonikpunktParent": {
+        "id": "0a488c62-33d2-4b5a-8ecd-b17ae726642a",
+        "documentKey": "Tekt    884c6500-19fc-478a-8db5-92a0ef96509c",
+        "documentTitle": "Politische Parteien und Gruppierungen (S)",
+        "bezeichnung": "Politische Parteien und Gruppierungen (S)",
+        "beschreibung": null,
+        "referencedDocumentKey": null,
+        "compoundTitle": "Politische Parteien und Gruppierungen (S)"
+      },
+      "verzeichnungseinheitVorgangParent": null,
+      "children": []
+    },
+    {
+      "uploadDate": "2023-04-07T04:14:12.136839Z",
+      "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+      "findbuchDocumentTitle": null,
+      "title": "Organisationen, Verbände, Vereine (T)",
+      "state": "PUBLISHED",
+      "veraEntity": "TEKTONIKPUNKT",
+      "archivParent": null,
+      "bestandParent": null,
+      "findbuchParent": null,
+      "klassifikationspunktParent": null,
+      "serieParent": null,
+      "id": "89de0ed9-e9fb-4f8e-98b4-74da705133ce",
+      "tektonikpunktParent": {
+        "id": "89de0ed9-e9fb-4f8e-98b4-74da705133ce",
+        "documentKey": "Tekt    78eb3a6d-8bd0-4401-bd33-dd2aed7879ee",
+        "documentTitle": "Organisationen, Verbände, Vereine (T)",
+        "bezeichnung": "Organisationen, Verbände, Vereine (T)",
+        "beschreibung": null,
+        "referencedDocumentKey": null,
+        "compoundTitle": "Organisationen, Verbände, Vereine (T)"
+      },
+      "verzeichnungseinheitVorgangParent": null,
+      "children": []
+    },
+    {
+      "uploadDate": "2023-04-07T04:14:12.136839Z",
+      "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+      "findbuchDocumentTitle": null,
+      "title": "Gewerbebetriebe, Adlige Häuser, Familien, Höfe (U)",
+      "state": "PUBLISHED",
+      "veraEntity": "TEKTONIKPUNKT",
+      "archivParent": null,
+      "bestandParent": null,
+      "findbuchParent": null,
+      "klassifikationspunktParent": null,
+      "serieParent": null,
+      "id": "33fed657-624d-4576-9030-0fee10ab5477",
+      "tektonikpunktParent": {
+        "id": "33fed657-624d-4576-9030-0fee10ab5477",
+        "documentKey": "Tekt    42665385-1211-4cc3-9884-26a34991d736",
+        "documentTitle": "Gewerbebetriebe, Adlige Häuser, Familien, Höfe (U)",
+        "bezeichnung": "Gewerbebetriebe, Adlige Häuser, Familien, Höfe (U)",
+        "beschreibung": null,
+        "referencedDocumentKey": null,
+        "compoundTitle": "Gewerbebetriebe, Adlige Häuser, Familien, Höfe (U)"
+      },
+      "verzeichnungseinheitVorgangParent": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,1202 @@
+[
+  {
+    "uploadDate": "2023-04-07T04:10:45.084268Z",
+    "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+    "findbuchDocumentTitle": null,
+    "title": "LAV NRW W-Landesarchiv NRW Abteilung Westfalen",
+    "state": "PUBLISHED",
+    "veraEntity": "ARCHIV",
+    "id": "8adf6f98-6c33-4d96-9f9a-2fc3dfab2d93",
+    "archivParent": {
+      "id": "8adf6f98-6c33-4d96-9f9a-2fc3dfab2d93",
+      "state": "PUBLISHED",
+      "uploadDate": "2023-04-07T04:10:45.084268Z",
+      "publishDate": "2023-04-07T04:11:58.356176Z",
+      "division": "WESTFALEN",
+      "documentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+      "documentKey": "Arch    98de449b-863b-4cc9-8929-c92e47beb1b6",
+      "name": "Landesarchiv NRW Abteilung Westfalen",
+      "kuerzel": "LAV NRW W"
+    },
+    "bestandParent": null,
+    "findbuchParent": null,
+    "klassifikationspunktParent": null,
+    "serieParent": null,
+    "tektonikpunktParent": null,
+    "verzeichnungseinheitVorgangParent": null,
+    "metadata": [
+      {
+        "label": "Als Titel anzeigen",
+        "value": [
+          "LAV NRW W-Landesarchiv NRW Abteilung Westfalen",
+          "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+          "Landesarchiv NRW Abteilung Westfalen"
+        ]
+      }
+    ],
+    "children": [
+      {
+        "uploadDate": "2023-04-07T04:10:45.084268Z",
+        "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+        "findbuchDocumentTitle": null,
+        "title": "Territorien des Alten Reiches bis 1802/03 einschließlich Kirchen, Stifter, Klöster, Städte u.ä.",
+        "state": "PUBLISHED",
+        "veraEntity": "TEKTONIKPUNKT",
+        "archivParent": null,
+        "bestandParent": null,
+        "findbuchParent": null,
+        "klassifikationspunktParent": null,
+        "serieParent": null,
+        "id": "74cb027d-32a2-4d83-9ee1-0ba28f7bc5ee",
+        "tektonikpunktParent": {
+          "id": "74cb027d-32a2-4d83-9ee1-0ba28f7bc5ee",
+          "documentKey": "Tekt    7d5ece9a-9a4b-4999-92ad-f0eef1df8480",
+          "documentTitle": "Territorien des Alten Reiches bis 1802/03 einschließlich Kirchen, Stifter, Klöster, Städte u.ä.",
+          "bezeichnung": "Territorien des Alten Reiches bis 1802/03 einschließlich Kirchen, Stifter, Klöster, Städte u.ä.",
+          "beschreibung": null,
+          "referencedDocumentKey": null,
+          "compoundTitle": "Territorien des Alten Reiches bis 1802/03 einschließlich Kirchen, Stifter, Klöster, Städte u.ä."
+        },
+        "verzeichnungseinheitVorgangParent": null,
+        "metadata": [
+          {
+            "label": "Als Titel anzeigen",
+            "value": [
+              "Territorien des Alten Reiches bis 1802/03 einschließlich Kirchen, Stifter, Klöster, Städte u.ä."
+            ]
+          },
+          {
+            "label": "Uploaddatum",
+            "value": [
+              "2023-04-07T04:10:45.084268Z"
+            ]
+          }
+        ],
+        "children": [
+          {
+            "uploadDate": "2023-04-07T04:10:45.084268Z",
+            "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+            "findbuchDocumentTitle": null,
+            "title": "Kölnisches Westfalen (A)",
+            "state": "PUBLISHED",
+            "veraEntity": "TEKTONIKPUNKT",
+            "archivParent": null,
+            "bestandParent": null,
+            "findbuchParent": null,
+            "klassifikationspunktParent": null,
+            "serieParent": null,
+            "id": "2fe0e789-d247-443e-b0dd-5966a2820b3b",
+            "tektonikpunktParent": {
+              "id": "2fe0e789-d247-443e-b0dd-5966a2820b3b",
+              "documentKey": "Tekt    644dadb0-7754-4cc4-b2d5-f011ffd3101f",
+              "documentTitle": "Kölnisches Westfalen (A)",
+              "bezeichnung": "Kölnisches Westfalen (A)",
+              "beschreibung": null,
+              "referencedDocumentKey": null,
+              "compoundTitle": "Kölnisches Westfalen (A)"
+            },
+            "verzeichnungseinheitVorgangParent": null,
+            "metadata": [
+              {
+                "label": "Als Titel anzeigen",
+                "value": [
+                  "Territorien des Alten Reiches bis 1802/03 einschließlich Kirchen, Stifter, Klöster, Städte u.ä."
+                ]
+              },
+              {
+                "label": "Uploaddatum",
+                "value": [
+                  "22.5.2023"
+                ]
+              },
+              {
+                "label": "Bezeichnung",
+                "value": [
+                  "Land Lippe (bis 1947)"
+                ]
+              }
+            ],
+            "children": [
+              {
+                "uploadDate": "2023-04-07T04:10:45.084268Z",
+                "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+                "findbuchDocumentTitle": null,
+                "title": "Herzogtum Westfalen",
+                "state": "PUBLISHED",
+                "veraEntity": "TEKTONIKPUNKT",
+                "archivParent": null,
+                "bestandParent": null,
+                "findbuchParent": null,
+                "klassifikationspunktParent": null,
+                "serieParent": null,
+                "id": "da1c0097-3ddb-4c59-bd21-ee4673bd8b29",
+                "tektonikpunktParent": {
+                  "id": "da1c0097-3ddb-4c59-bd21-ee4673bd8b29",
+                  "documentKey": "Tekt    0a833ac9-119d-4a6a-b5b1-dac518343f36",
+                  "documentTitle": "Herzogtum Westfalen",
+                  "bezeichnung": "Herzogtum Westfalen",
+                  "beschreibung": "Westfälischer Anteil (neben dem Vest Recklinghausen) des Erzbistums Köln, benannt nach dem für ganz Westfalen beanspruchten Herzogstitel, 1368 vergrößert durch Kauf der Grafschaft Arnsberg; umfassend den heutigen Kreis Olpe, den Hochsauerlandkreis, Teile des Kreises Soest und des Märkischen Kreises (Menden, Balve).\r\n",
+                  "referencedDocumentKey": null,
+                  "compoundTitle": "Herzogtum Westfalen"
+                },
+                "verzeichnungseinheitVorgangParent": null,
+                "children": [
+                  {
+                    "uploadDate": "2023-04-07T04:10:45.084268Z",
+                    "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+                    "findbuchDocumentTitle": null,
+                    "title": "Verwaltung, Justiz, Landstände",
+                    "state": "PUBLISHED",
+                    "veraEntity": "TEKTONIKPUNKT",
+                    "archivParent": null,
+                    "bestandParent": null,
+                    "findbuchParent": null,
+                    "klassifikationspunktParent": null,
+                    "serieParent": null,
+                    "id": "fff5de7a-1a85-468b-97c3-9513ad7baad0",
+                    "tektonikpunktParent": {
+                      "id": "fff5de7a-1a85-468b-97c3-9513ad7baad0",
+                      "documentKey": "Tekt    1baad9f6-89ff-4f43-8f0a-66b9306b8fa6",
+                      "documentTitle": "Verwaltung, Justiz, Landstände",
+                      "bezeichnung": "Verwaltung, Justiz, Landstände",
+                      "beschreibung": "Im Erzstift Köln aus dem 1469 angeordneten ständigen Rat im Jahre 1597 der Hofrat als allgemeine zentrale Verwaltungsinstanz (mit Gerichtsfunktionen) neben der seit 1587 als Finanzbehörde eingerichteten Hofkammer eingerichtet; beide in Konkurrenz zum Geheimen Rat bzw. der diesen ablösenden Geheimen Staatskonferenz, die mehr politisch lenkende bzw. beratende Organe waren. Im Gegensatz zum eigentlichen Erzstift im Herzogtum Westfalen Landdrost (aus dem Marschallamt erwachsen) und Räte als Mittelinstanz Ausdruck der regionalen Besonderheit.\r\n",
+                      "referencedDocumentKey": null,
+                      "compoundTitle": "Verwaltung, Justiz, Landstände"
+                    },
+                    "verzeichnungseinheitVorgangParent": null,
+                    "children": [
+                      {
+                        "uploadDate": "2023-04-07T04:10:45.084268Z",
+                        "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+                        "findbuchDocumentTitle": null,
+                        "title": "A 001 Herzogtum Westfalen, Landesarchiv",
+                        "state": "PUBLISHED",
+                        "veraEntity": "BESTAND",
+                        "archivParent": null,
+                        "id": "1d8b1024-0176-47b5-b308-26803568613c",
+                        "bestandParent": {
+                          "id": "1d8b1024-0176-47b5-b308-26803568613c",
+                          "documentKey": "Best    f9140b55-2734-435a-9fbe-688489d177e3",
+                          "documentTitle": "A 001/Herzogtum Westfalen, Landesarchiv",
+                          "signatur": "A 001",
+                          "name": "Herzogtum Westfalen, Landesarchiv",
+                          "laufzeit": "[8. Jh.] -1803",
+                          "inhalt": "s. Teilbestände für Akten und Urkunden.\r\n",
+                          "umfang": null,
+                          "teil": null,
+                          "referencedDocumentKey": null,
+                          "sperrenDatumUnbestellbar": null,
+                          "sperrenGrundUnbestellbar": null,
+                          "sperrenDatumUnsichtbar": null,
+                          "sperrenGrundUnsichtbar": null,
+                          "compoundTitle": "A 001 Herzogtum Westfalen, Landesarchiv"
+                        },
+                        "findbuchParent": null,
+                        "klassifikationspunktParent": null,
+                        "serieParent": null,
+                        "tektonikpunktParent": null,
+                        "verzeichnungseinheitVorgangParent": null,
+                        "metadata": [
+                          {
+                            "label": "Als Titel anzeigen",
+                            "value": [
+                              "Territorien des Alten Reiches bis 1802/03 einschließlich Kirchen, Stifter, Klöster, Städte u.ä."
+                            ]
+                          },
+                          {
+                            "label": "Laufzeit",
+                            "value": [
+                              "1344-1794"
+                            ]
+                          },
+                          {
+                            "label": "Inhalt",
+                            "value": [
+                              "Erbherrliche Streitigkeiten mit Schaumburg-Lippe-Alverdissen 1654-1787 (66)",
+                              "Erbherrliche Streitigkeiten mit Lippe-Brake und Schaumburg-Lippe (Hausverträge, Kirchensachen, Gerichtsbarkeit, Hoheit, Abgaben, Prozesse) 1344, 1614-1794 (253); Brakischer Erbfolgestreit mit Schaumburg-Lippe 1707-1792 (42)."
+                            ]
+                          },
+                          {
+                            "label": "Umfang",
+                            "value": [
+                              "236 Kartons = 360 Archivbände 1344-1794. - Findbuch: L 8."
+                            ]
+                          }
+                        ],
+                        "children": [
+                          {
+                            "uploadDate": "2023-04-07T04:10:45.084268Z",
+                            "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+                            "findbuchDocumentTitle": null,
+                            "title": "A 001u Herzogtum Westfalen, Landesarchiv",
+                            "state": "PUBLISHED",
+                            "veraEntity": "BESTAND",
+                            "archivParent": null,
+                            "id": "24905744-eac2-440f-bc76-d742bba2efd7",
+                            "bestandParent": {
+                              "id": "24905744-eac2-440f-bc76-d742bba2efd7",
+                              "documentKey": "Best    54944118-8eaa-4188-89ca-2b785849c182",
+                              "documentTitle": "A 001u/Herzogtum Westfalen, Landesarchiv/Urkunden",
+                              "signatur": "A 001u",
+                              "name": "Herzogtum Westfalen, Landesarchiv",
+                              "laufzeit": "1195-1731",
+                              "inhalt": null,
+                              "umfang": "164 Urkunden.",
+                              "teil": "Urkunden",
+                              "referencedDocumentKey": null,
+                              "sperrenDatumUnbestellbar": null,
+                              "sperrenGrundUnbestellbar": null,
+                              "sperrenDatumUnsichtbar": null,
+                              "sperrenGrundUnsichtbar": null,
+                              "compoundTitle": "A 001u Herzogtum Westfalen, Landesarchiv"
+                            },
+                            "findbuchParent": null,
+                            "klassifikationspunktParent": null,
+                            "serieParent": null,
+                            "tektonikpunktParent": null,
+                            "verzeichnungseinheitVorgangParent": null,
+                            "children": []
+                          },
+                          {
+                            "uploadDate": "2023-04-07T04:10:45.084268Z",
+                            "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+                            "findbuchDocumentTitle": null,
+                            "title": "A 001 Herzogtum Westfalen, Landesarchiv",
+                            "state": "PUBLISHED",
+                            "veraEntity": "BESTAND",
+                            "archivParent": null,
+                            "id": "4773821f-4e7e-4191-9100-ddd1e4882897",
+                            "bestandParent": {
+                              "id": "4773821f-4e7e-4191-9100-ddd1e4882897",
+                              "documentKey": "Best    20fafbc8-cd05-47cd-9839-19d3b2864472",
+                              "documentTitle": "A 001/Herzogtum Westfalen, Landesarchiv/Akten",
+                              "signatur": "A 001",
+                              "name": "Herzogtum Westfalen, Landesarchiv",
+                              "laufzeit": "[8. Jh.] -1803",
+                              "inhalt": "Reichsangelegenheiten (8), Beziehungen zu Auswärtigen, Grenzsachen (397): Corvey, Hessen-Kassel, Lippe, Mark, Münster, Nassau-Siegen, Paderborn, Waldeck, Wittgenstein-Berleburg, Berg, Kreisangelegenheiten (3), Landeshoheit (14), Verwaltung (62), Polizei (6), Landdrost und Räte (13), Bestallungen (8), Ritterschaft (9), Landstände und Landtage (21),  Freigrafschaften (3), Ämter (68), Steuer-, Rechnungs- und Schuldenwesen (43), Oberkellnerei Arnsberg (88), Lehen (5), Adelige Häuser (5), Städte, Freiheiten und Gerichte (68), Orte und Kirchspiele (10), Verwaltung von Gütern und Höfen (54), Gerichtswesen (97), Militärwesen (70), Kirchenwesen (440), Judaica (34), Schulwesen (222), Bergbau (26), Salinen (13), Hammerwerke (6), Mühlen (15), Marken und Forsten (13), Jagd und Fischerei (10), Landwirtschaft (7), Bauwesen (5), Gesundheitswesen (24), Armenversorgung (6), Verkehr (3), Postwesen (2), Zollwesen (8), Münzwesen (2), Brandversicherung (3).\r\n",
+                              "umfang": "1852 Akten.",
+                              "teil": "Akten",
+                              "referencedDocumentKey": null,
+                              "sperrenDatumUnbestellbar": null,
+                              "sperrenGrundUnbestellbar": null,
+                              "sperrenDatumUnsichtbar": null,
+                              "sperrenGrundUnsichtbar": null,
+                              "compoundTitle": "A 001 Herzogtum Westfalen, Landesarchiv"
+                            },
+                            "findbuchParent": null,
+                            "klassifikationspunktParent": null,
+                            "serieParent": null,
+                            "tektonikpunktParent": null,
+                            "verzeichnungseinheitVorgangParent": null,
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "uploadDate": "2023-04-07T04:10:45.084268Z",
+                        "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+                        "findbuchDocumentTitle": null,
+                        "title": "A 002u Herzogtum Westfalen, Lehen, Spezialia",
+                        "state": "PUBLISHED",
+                        "veraEntity": "BESTAND",
+                        "archivParent": null,
+                        "id": "1a5622d9-0932-40c1-9552-c0e9fed506ee",
+                        "bestandParent": {
+                          "id": "1a5622d9-0932-40c1-9552-c0e9fed506ee",
+                          "documentKey": "Best    e6b8c299-8ada-492d-a053-35fcb814a99d",
+                          "documentTitle": "A 002u/Herzogtum Westfalen, Lehen, Spezialia/Urkunden",
+                          "signatur": "A 002u",
+                          "name": "Herzogtum Westfalen, Lehen, Spezialia",
+                          "laufzeit": "1180-1798",
+                          "inhalt": "Lehen Specialia (1090); Unterlehenshöfe Padberg 1030-1854 (37), Holdinghausen 1541-1786 (13) , Scharfenberg 1360-1819 (30). \r\n",
+                          "umfang": "1180 Urkunden.",
+                          "teil": "Urkunden",
+                          "referencedDocumentKey": null,
+                          "sperrenDatumUnbestellbar": null,
+                          "sperrenGrundUnbestellbar": null,
+                          "sperrenDatumUnsichtbar": null,
+                          "sperrenGrundUnsichtbar": null,
+                          "compoundTitle": "A 002u Herzogtum Westfalen, Lehen, Spezialia"
+                        },
+                        "findbuchParent": null,
+                        "klassifikationspunktParent": null,
+                        "serieParent": null,
+                        "tektonikpunktParent": null,
+                        "verzeichnungseinheitVorgangParent": null,
+                        "children": []
+                      },
+                      {
+                        "uploadDate": "2023-04-07T04:10:45.084268Z",
+                        "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+                        "findbuchDocumentTitle": null,
+                        "title": "A 003u Herzogtum Westfalen, Lehen, Generalia",
+                        "state": "PUBLISHED",
+                        "veraEntity": "BESTAND",
+                        "archivParent": null,
+                        "id": "2d0ea2ba-68b4-4cb2-b79c-d6e9546e986e",
+                        "bestandParent": {
+                          "id": "2d0ea2ba-68b4-4cb2-b79c-d6e9546e986e",
+                          "documentKey": "Best    a4eae013-8b1a-487c-be8e-a1624486b134",
+                          "documentTitle": "A 003u/Herzogtum Westfalen, Lehen, Generalia/Urkunden",
+                          "signatur": "A 003u",
+                          "name": "Herzogtum Westfalen, Lehen, Generalia",
+                          "laufzeit": "1167-1682",
+                          "inhalt": null,
+                          "umfang": "15 Urkunden.",
+                          "teil": "Urkunden",
+                          "referencedDocumentKey": null,
+                          "sperrenDatumUnbestellbar": null,
+                          "sperrenGrundUnbestellbar": null,
+                          "sperrenDatumUnsichtbar": null,
+                          "sperrenGrundUnsichtbar": null,
+                          "compoundTitle": "A 003u Herzogtum Westfalen, Lehen, Generalia"
+                        },
+                        "findbuchParent": null,
+                        "klassifikationspunktParent": null,
+                        "serieParent": null,
+                        "tektonikpunktParent": null,
+                        "verzeichnungseinheitVorgangParent": null,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uploadDate": "2023-04-07T04:10:45.084268Z",
+                    "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+                    "findbuchDocumentTitle": null,
+                    "title": "Stifte und Klöster",
+                    "state": "PUBLISHED",
+                    "veraEntity": "TEKTONIKPUNKT",
+                    "archivParent": null,
+                    "bestandParent": null,
+                    "findbuchParent": null,
+                    "klassifikationspunktParent": null,
+                    "serieParent": null,
+                    "id": "475b9662-2cd8-4374-96d6-6d1fb88b4f22",
+                    "tektonikpunktParent": {
+                      "id": "475b9662-2cd8-4374-96d6-6d1fb88b4f22",
+                      "documentKey": "Tekt    f734381c-c238-4276-8837-b6df64be07a7",
+                      "documentTitle": "Stifte und Klöster",
+                      "bezeichnung": "Stifte und Klöster",
+                      "beschreibung": null,
+                      "referencedDocumentKey": null,
+                      "compoundTitle": "Stifte und Klöster"
+                    },
+                    "verzeichnungseinheitVorgangParent": null,
+                    "children": [
+                      {
+                        "uploadDate": "2023-04-07T04:10:45.084268Z",
+                        "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+                        "findbuchDocumentTitle": null,
+                        "title": "A 101 Jesuitenmission Arnsberg",
+                        "state": "PUBLISHED",
+                        "veraEntity": "BESTAND",
+                        "archivParent": null,
+                        "id": "89b5bbd5-4c66-4e0f-84ee-c981fa9aff77",
+                        "bestandParent": {
+                          "id": "89b5bbd5-4c66-4e0f-84ee-c981fa9aff77",
+                          "documentKey": "Best    237ec024-4a42-4ab5-832b-dd2b83684942",
+                          "documentTitle": "A 101/Jesuitenmission Arnsberg",
+                          "signatur": "A 101",
+                          "name": "Jesuitenmission Arnsberg",
+                          "laufzeit": "1459-1785",
+                          "inhalt": "s. Teilbestände für Akten und Urkunden.\r\n",
+                          "umfang": null,
+                          "teil": null,
+                          "referencedDocumentKey": null,
+                          "sperrenDatumUnbestellbar": null,
+                          "sperrenGrundUnbestellbar": null,
+                          "sperrenDatumUnsichtbar": null,
+                          "sperrenGrundUnsichtbar": null,
+                          "compoundTitle": "A 101 Jesuitenmission Arnsberg"
+                        },
+                        "findbuchParent": null,
+                        "klassifikationspunktParent": null,
+                        "serieParent": null,
+                        "tektonikpunktParent": null,
+                        "verzeichnungseinheitVorgangParent": null,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uploadDate": "2023-04-07T04:10:45.084268Z",
+                    "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+                    "findbuchDocumentTitle": null,
+                    "title": "Pfarreien, Städte, Freiheiten",
+                    "state": "PUBLISHED",
+                    "veraEntity": "TEKTONIKPUNKT",
+                    "archivParent": null,
+                    "bestandParent": null,
+                    "findbuchParent": null,
+                    "klassifikationspunktParent": null,
+                    "serieParent": null,
+                    "id": "e2b37378-6282-44bb-a80d-d562cd1aa2de",
+                    "tektonikpunktParent": {
+                      "id": "e2b37378-6282-44bb-a80d-d562cd1aa2de",
+                      "documentKey": "Tekt    00b7a918-0184-4f09-8fdc-6403ca668668",
+                      "documentTitle": "Pfarreien, Städte, Freiheiten",
+                      "bezeichnung": "Pfarreien, Städte, Freiheiten",
+                      "beschreibung": null,
+                      "referencedDocumentKey": null,
+                      "compoundTitle": "Pfarreien, Städte, Freiheiten"
+                    },
+                    "verzeichnungseinheitVorgangParent": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uploadDate": "2023-04-07T04:10:45.084268Z",
+                "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+                "findbuchDocumentTitle": null,
+                "title": "Vest Recklinghausen",
+                "state": "PUBLISHED",
+                "veraEntity": "TEKTONIKPUNKT",
+                "archivParent": null,
+                "bestandParent": null,
+                "findbuchParent": null,
+                "klassifikationspunktParent": null,
+                "serieParent": null,
+                "id": "13c0ccbe-d9b8-464f-adce-df0387acd97a",
+                "tektonikpunktParent": {
+                  "id": "13c0ccbe-d9b8-464f-adce-df0387acd97a",
+                  "documentKey": "Tekt    7e0f6a9d-cb9f-48fb-bd0a-4870006346bf",
+                  "documentTitle": "Vest Recklinghausen",
+                  "bezeichnung": "Vest Recklinghausen",
+                  "beschreibung": "Neben dem Herzogtum Westfalen ein weiterer Anteil des kurkölnischen Territoriums in Westfalen, zwischen Emscher und Lippe gelegen; zunächst identisch mit dem Gerichtsbezirk (= Vest) Recklinghausen, später Aufteilung in das Obervest Recklinghausen und das Niedervest Dorsten.\r\n",
+                  "referencedDocumentKey": null,
+                  "compoundTitle": "Vest Recklinghausen"
+                },
+                "verzeichnungseinheitVorgangParent": null,
+                "children": []
+              }
+            ]
+          },
+          {
+            "uploadDate": "2023-04-07T04:10:45.084268Z",
+            "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+            "findbuchDocumentTitle": null,
+            "title": "Westfälische Fürstbistümer (B)",
+            "state": "PUBLISHED",
+            "veraEntity": "TEKTONIKPUNKT",
+            "archivParent": null,
+            "bestandParent": null,
+            "findbuchParent": null,
+            "klassifikationspunktParent": null,
+            "serieParent": null,
+            "id": "1cf3ae09-219f-4bd1-b74d-b26111da48d3",
+            "tektonikpunktParent": {
+              "id": "1cf3ae09-219f-4bd1-b74d-b26111da48d3",
+              "documentKey": "Tekt    b67f527b-f0cd-45e8-8494-2736b579ffdb",
+              "documentTitle": "Westfälische Fürstbistümer (B)",
+              "bezeichnung": "Westfälische Fürstbistümer (B)",
+              "beschreibung": null,
+              "referencedDocumentKey": null,
+              "compoundTitle": "Westfälische Fürstbistümer (B)"
+            },
+            "verzeichnungseinheitVorgangParent": null,
+            "children": []
+          },
+          {
+            "uploadDate": "2023-04-07T04:10:45.084268Z",
+            "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+            "findbuchDocumentTitle": null,
+            "title": "Westfälische Fürstabteien (C)",
+            "state": "PUBLISHED",
+            "veraEntity": "TEKTONIKPUNKT",
+            "archivParent": null,
+            "bestandParent": null,
+            "findbuchParent": null,
+            "klassifikationspunktParent": null,
+            "serieParent": null,
+            "id": "5e6b1a65-d8d9-414a-886c-79e0dc789d63",
+            "tektonikpunktParent": {
+              "id": "5e6b1a65-d8d9-414a-886c-79e0dc789d63",
+              "documentKey": "Tekt    76e463aa-d822-457b-8880-d9db89046b43",
+              "documentTitle": "Westfälische Fürstabteien (C)",
+              "bezeichnung": "Westfälische Fürstabteien (C)",
+              "beschreibung": null,
+              "referencedDocumentKey": null,
+              "compoundTitle": "Westfälische Fürstabteien (C)"
+            },
+            "verzeichnungseinheitVorgangParent": null,
+            "children": []
+          },
+          {
+            "uploadDate": "2023-04-07T04:10:45.084268Z",
+            "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+            "findbuchDocumentTitle": null,
+            "title": "Preußisches Westfalen (D)",
+            "state": "PUBLISHED",
+            "veraEntity": "TEKTONIKPUNKT",
+            "archivParent": null,
+            "bestandParent": null,
+            "findbuchParent": null,
+            "klassifikationspunktParent": null,
+            "serieParent": null,
+            "id": "7d2fa261-4ad8-4148-8fcd-be75c7451f94",
+            "tektonikpunktParent": {
+              "id": "7d2fa261-4ad8-4148-8fcd-be75c7451f94",
+              "documentKey": "Tekt    37ba4fe6-6fb3-417d-af4a-6cd4f562da7e",
+              "documentTitle": "Preußisches Westfalen (D)",
+              "bezeichnung": "Preußisches Westfalen (D)",
+              "beschreibung": null,
+              "referencedDocumentKey": null,
+              "compoundTitle": "Preußisches Westfalen (D)"
+            },
+            "verzeichnungseinheitVorgangParent": null,
+            "children": []
+          },
+          {
+            "uploadDate": "2023-04-07T04:10:45.084268Z",
+            "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+            "findbuchDocumentTitle": null,
+            "title": "Weitere weltliche Territorien (E)",
+            "state": "PUBLISHED",
+            "veraEntity": "TEKTONIKPUNKT",
+            "archivParent": null,
+            "bestandParent": null,
+            "findbuchParent": null,
+            "klassifikationspunktParent": null,
+            "serieParent": null,
+            "id": "1f4c614f-31ba-4056-8e03-68f711ed4687",
+            "tektonikpunktParent": {
+              "id": "1f4c614f-31ba-4056-8e03-68f711ed4687",
+              "documentKey": "Tekt    4ed4ff55-43fc-4731-814f-904395a56dd3",
+              "documentTitle": "Weitere weltliche Territorien (E)",
+              "bezeichnung": "Weitere weltliche Territorien (E)",
+              "beschreibung": null,
+              "referencedDocumentKey": null,
+              "compoundTitle": "Weitere weltliche Territorien (E)"
+            },
+            "verzeichnungseinheitVorgangParent": null,
+            "children": []
+          },
+          {
+            "uploadDate": "2023-04-07T04:10:45.084268Z",
+            "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+            "findbuchDocumentTitle": null,
+            "title": "Außerwestfälische Territorien und Institutionen (F)",
+            "state": "PUBLISHED",
+            "veraEntity": "TEKTONIKPUNKT",
+            "archivParent": null,
+            "bestandParent": null,
+            "findbuchParent": null,
+            "klassifikationspunktParent": null,
+            "serieParent": null,
+            "id": "88f5d1af-ec45-44ac-9e79-b6abb9b90728",
+            "tektonikpunktParent": {
+              "id": "88f5d1af-ec45-44ac-9e79-b6abb9b90728",
+              "documentKey": "Tekt    dd4fde19-45e3-49d2-9710-5da95945a466",
+              "documentTitle": "Außerwestfälische Territorien und Institutionen (F)",
+              "bezeichnung": "Außerwestfälische Territorien und Institutionen (F)",
+              "beschreibung": null,
+              "referencedDocumentKey": null,
+              "compoundTitle": "Außerwestfälische Territorien und Institutionen (F)"
+            },
+            "verzeichnungseinheitVorgangParent": null,
+            "children": []
+          }
+        ]
+      },
+      {
+        "uploadDate": "2023-04-07T04:10:45.084268Z",
+        "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+        "findbuchDocumentTitle": null,
+        "title": "Behörden der Übergangszeit 1802-1816",
+        "state": "PUBLISHED",
+        "veraEntity": "TEKTONIKPUNKT",
+        "archivParent": null,
+        "bestandParent": null,
+        "findbuchParent": null,
+        "klassifikationspunktParent": null,
+        "serieParent": null,
+        "id": "13ce8657-1dc3-4bd3-9d43-a701a020c95f",
+        "tektonikpunktParent": {
+          "id": "13ce8657-1dc3-4bd3-9d43-a701a020c95f",
+          "documentKey": "Tekt    871fddf1-ad3b-4bd2-8f7c-3d8b2b922d44",
+          "documentTitle": "Behörden der Übergangszeit 1802-1816",
+          "bezeichnung": "Behörden der Übergangszeit 1802-1816",
+          "beschreibung": "Behörden und Einrichtungen der Territorien des Alten Reiches bzw. von neugebildeten Staaten, soweit im Zusammenhang der politischen Umwälzungen von 1802 bis 1816 entstanden oder tätig (d.h. für die Entschädigungslande nach 1802, in französischen Staatsschöpfungen nach 1805/1806, oder als Nachfolge- und Abwicklungsbehörden nach 1813).\r\n",
+          "referencedDocumentKey": null,
+          "compoundTitle": "Behörden der Übergangszeit 1802-1816"
+        },
+        "verzeichnungseinheitVorgangParent": null,
+        "children": [
+          {
+            "uploadDate": "2023-04-07T04:14:12.136839Z",
+            "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+            "findbuchDocumentTitle": null,
+            "title": "Preußische Entschädigungslande (G)",
+            "state": "PUBLISHED",
+            "veraEntity": "TEKTONIKPUNKT",
+            "archivParent": null,
+            "bestandParent": null,
+            "findbuchParent": null,
+            "klassifikationspunktParent": null,
+            "serieParent": null,
+            "id": "e26bf066-ca26-478a-a0d4-bc9e272015e8",
+            "tektonikpunktParent": {
+              "id": "e26bf066-ca26-478a-a0d4-bc9e272015e8",
+              "documentKey": "Tekt    aa44f339-61f1-4e60-b7d3-c3280b0be51e",
+              "documentTitle": "Preußische Entschädigungslande (G)",
+              "bezeichnung": "Preußische Entschädigungslande (G)",
+              "beschreibung": null,
+              "referencedDocumentKey": null,
+              "compoundTitle": "Preußische Entschädigungslande (G)"
+            },
+            "verzeichnungseinheitVorgangParent": null,
+            "children": []
+          },
+          {
+            "uploadDate": "2023-04-07T04:14:12.136839Z",
+            "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+            "findbuchDocumentTitle": null,
+            "title": "Sonstige Entschädigungslande (H)",
+            "state": "PUBLISHED",
+            "veraEntity": "TEKTONIKPUNKT",
+            "archivParent": null,
+            "bestandParent": null,
+            "findbuchParent": null,
+            "klassifikationspunktParent": null,
+            "serieParent": null,
+            "id": "3b0fae15-e3f9-4e6f-850d-b91d1e3d7c5e",
+            "tektonikpunktParent": {
+              "id": "3b0fae15-e3f9-4e6f-850d-b91d1e3d7c5e",
+              "documentKey": "Tekt    c01ed18a-6805-4196-95bc-69d5dcb19be5",
+              "documentTitle": "Sonstige Entschädigungslande (H)",
+              "bezeichnung": "Sonstige Entschädigungslande (H)",
+              "beschreibung": null,
+              "referencedDocumentKey": null,
+              "compoundTitle": "Sonstige Entschädigungslande (H)"
+            },
+            "verzeichnungseinheitVorgangParent": null,
+            "children": []
+          },
+          {
+            "uploadDate": "2023-04-07T04:14:12.136839Z",
+            "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+            "findbuchDocumentTitle": null,
+            "title": "Napoleonische Staatsgründungen (I)",
+            "state": "PUBLISHED",
+            "veraEntity": "TEKTONIKPUNKT",
+            "archivParent": null,
+            "bestandParent": null,
+            "findbuchParent": null,
+            "klassifikationspunktParent": null,
+            "serieParent": null,
+            "id": "016b14b2-be47-41b9-801c-9bac76169268",
+            "tektonikpunktParent": {
+              "id": "016b14b2-be47-41b9-801c-9bac76169268",
+              "documentKey": "Tekt    949cc12a-d90b-494d-ac05-535c8e07aaba",
+              "documentTitle": "Napoleonische Staatsgründungen (I)",
+              "bezeichnung": "Napoleonische Staatsgründungen (I)",
+              "beschreibung": null,
+              "referencedDocumentKey": null,
+              "compoundTitle": "Napoleonische Staatsgründungen (I)"
+            },
+            "verzeichnungseinheitVorgangParent": null,
+            "children": []
+          },
+          {
+            "uploadDate": "2023-04-07T04:14:12.136839Z",
+            "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+            "findbuchDocumentTitle": null,
+            "title": "Preußische Nachfolge- und Abwicklungsbehörden (J)",
+            "state": "PUBLISHED",
+            "veraEntity": "TEKTONIKPUNKT",
+            "archivParent": null,
+            "bestandParent": null,
+            "findbuchParent": null,
+            "klassifikationspunktParent": null,
+            "serieParent": null,
+            "id": "d682d6f1-f8dd-4ad5-a243-f10808cedc0f",
+            "tektonikpunktParent": {
+              "id": "d682d6f1-f8dd-4ad5-a243-f10808cedc0f",
+              "documentKey": "Tekt    47d01f76-4dc2-4691-a135-18f80fe73d34",
+              "documentTitle": "Preußische Nachfolge- und Abwicklungsbehörden (J)",
+              "bezeichnung": "Preußische Nachfolge- und Abwicklungsbehörden (J)",
+              "beschreibung": null,
+              "referencedDocumentKey": null,
+              "compoundTitle": "Preußische Nachfolge- und Abwicklungsbehörden (J)"
+            },
+            "verzeichnungseinheitVorgangParent": null,
+            "children": []
+          }
+        ]
+      },
+      {
+        "uploadDate": "2023-04-07T04:10:45.084268Z",
+        "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+        "findbuchDocumentTitle": null,
+        "title": "Behörden und Einrichtungen des Staates und der Selbstverwaltung nach 1816",
+        "state": "PUBLISHED",
+        "veraEntity": "TEKTONIKPUNKT",
+        "archivParent": null,
+        "bestandParent": null,
+        "findbuchParent": null,
+        "klassifikationspunktParent": null,
+        "serieParent": null,
+        "id": "05738257-f2e3-4a53-aed1-e13e926efb95",
+        "tektonikpunktParent": {
+          "id": "05738257-f2e3-4a53-aed1-e13e926efb95",
+          "documentKey": "Tekt    69f4e87c-2f6d-441e-8425-194484eb6f47",
+          "documentTitle": "Behörden und Einrichtungen des Staates und der Selbstverwaltung nach 1816",
+          "bezeichnung": "Behörden und Einrichtungen des Staates und der Selbstverwaltung nach 1816",
+          "beschreibung": null,
+          "referencedDocumentKey": null,
+          "compoundTitle": "Behörden und Einrichtungen des Staates und der Selbstverwaltung nach 1816"
+        },
+        "verzeichnungseinheitVorgangParent": null,
+        "children": []
+      },
+      {
+        "uploadDate": "2023-04-07T04:10:45.084268Z",
+        "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+        "findbuchDocumentTitle": null,
+        "title": "Nichtstaatliches Schriftgut / Archivische Sammlungen",
+        "state": "PUBLISHED",
+        "veraEntity": "TEKTONIKPUNKT",
+        "archivParent": null,
+        "bestandParent": null,
+        "findbuchParent": null,
+        "klassifikationspunktParent": null,
+        "serieParent": null,
+        "id": "4d8783a7-feb9-43b3-a793-9e2626c48183",
+        "tektonikpunktParent": {
+          "id": "4d8783a7-feb9-43b3-a793-9e2626c48183",
+          "documentKey": "Tekt    f83af060-5662-4424-94da-09454cfbe81f",
+          "documentTitle": "Nichtstaatliches Schriftgut / Archivische Sammlungen",
+          "bezeichnung": "Nichtstaatliches Schriftgut / Archivische Sammlungen",
+          "beschreibung": null,
+          "referencedDocumentKey": null,
+          "compoundTitle": "Nichtstaatliches Schriftgut / Archivische Sammlungen"
+        },
+        "verzeichnungseinheitVorgangParent": null,
+        "children": [
+          {
+            "uploadDate": "2023-05-19T09:08:46.368188Z",
+            "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+            "findbuchDocumentTitle": null,
+            "title": "Nachlässe und Sammlungen (V)",
+            "state": "PUBLISHED",
+            "veraEntity": "TEKTONIKPUNKT",
+            "archivParent": null,
+            "bestandParent": null,
+            "findbuchParent": null,
+            "klassifikationspunktParent": null,
+            "serieParent": null,
+            "id": "0ab086eb-89f3-4811-8c1d-bdae798ecf85",
+            "tektonikpunktParent": {
+              "id": "0ab086eb-89f3-4811-8c1d-bdae798ecf85",
+              "documentKey": "Tekt    555c107b-f847-453d-9dfc-8c3890170e94",
+              "documentTitle": "Nachlässe und Sammlungen (V)",
+              "bezeichnung": "Nachlässe und Sammlungen (V)",
+              "beschreibung": null,
+              "referencedDocumentKey": null,
+              "compoundTitle": "Nachlässe und Sammlungen (V)"
+            },
+            "verzeichnungseinheitVorgangParent": null,
+            "children": []
+          },
+          {
+            "uploadDate": "2023-05-19T09:08:46.368188Z",
+            "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+            "findbuchDocumentTitle": null,
+            "title": "Archivische Sammlungen (W)",
+            "state": "PUBLISHED",
+            "veraEntity": "TEKTONIKPUNKT",
+            "archivParent": null,
+            "bestandParent": null,
+            "findbuchParent": null,
+            "klassifikationspunktParent": null,
+            "serieParent": null,
+            "id": "3e88ca4a-648b-4192-807b-a0776bdfebf3",
+            "tektonikpunktParent": {
+              "id": "3e88ca4a-648b-4192-807b-a0776bdfebf3",
+              "documentKey": "Tekt    e5407f29-5064-4b9b-b96a-1c32b4ef3539",
+              "documentTitle": "Archivische Sammlungen (W)",
+              "bezeichnung": "Archivische Sammlungen (W)",
+              "beschreibung": null,
+              "referencedDocumentKey": null,
+              "compoundTitle": "Archivische Sammlungen (W)"
+            },
+            "verzeichnungseinheitVorgangParent": null,
+            "children": [
+              {
+                "uploadDate": "2023-05-19T09:08:46.368188Z",
+                "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+                "findbuchDocumentTitle": null,
+                "title": "Sammlung 3D-Objekte",
+                "state": "PUBLISHED",
+                "veraEntity": "TEKTONIKPUNKT",
+                "archivParent": null,
+                "bestandParent": null,
+                "findbuchParent": null,
+                "klassifikationspunktParent": null,
+                "serieParent": null,
+                "id": "abcd2b05-9e68-4b0f-9e68-1c2b308121ad",
+                "tektonikpunktParent": {
+                  "id": "abcd2b05-9e68-4b0f-9e68-1c2b308121ad",
+                  "documentKey": "Tekt    f329ce48-17be-4a67-8c7f-9c78e34937af",
+                  "documentTitle": "Sammlung 3D-Objekte",
+                  "bezeichnung": "Sammlung 3D-Objekte",
+                  "beschreibung": null,
+                  "referencedDocumentKey": null,
+                  "compoundTitle": "Sammlung 3D-Objekte"
+                },
+                "verzeichnungseinheitVorgangParent": null,
+                "children": []
+              },
+              {
+                "uploadDate": "2023-05-19T09:08:46.368188Z",
+                "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+                "findbuchDocumentTitle": null,
+                "title": "Urkundenselekt",
+                "state": "PUBLISHED",
+                "veraEntity": "TEKTONIKPUNKT",
+                "archivParent": null,
+                "bestandParent": null,
+                "findbuchParent": null,
+                "klassifikationspunktParent": null,
+                "serieParent": null,
+                "id": "fcf38684-12ac-4f84-b6ac-b3fe36f2be97",
+                "tektonikpunktParent": {
+                  "id": "fcf38684-12ac-4f84-b6ac-b3fe36f2be97",
+                  "documentKey": "Tekt    E90C8B91-EDCC-4E9F-8022-2A459D7EA931",
+                  "documentTitle": "Urkundenselekt",
+                  "bezeichnung": "Urkundenselekt",
+                  "beschreibung": null,
+                  "referencedDocumentKey": null,
+                  "compoundTitle": "Urkundenselekt"
+                },
+                "verzeichnungseinheitVorgangParent": null,
+                "children": [
+                  {
+                    "uploadDate": "2023-05-19T09:08:46.368188Z",
+                    "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+                    "findbuchDocumentTitle": null,
+                    "title": "W 701 / Urkundenselekt",
+                    "state": "PUBLISHED",
+                    "veraEntity": "BESTAND",
+                    "archivParent": null,
+                    "id": "796bd7eb-5f74-48dc-9f54-7cca79bde7bb",
+                    "bestandParent": {
+                      "id": "796bd7eb-5f74-48dc-9f54-7cca79bde7bb",
+                      "documentKey": "Best    D17A3080-A25B-48DA-8252-7A38192C60F3",
+                      "documentTitle": "W 701/Urkundenselekt",
+                      "signatur": "W 701",
+                      "name": "Urkundenselekt",
+                      "laufzeit": "813-1861",
+                      "inhalt": "Großformatige Urkunden: 197 Kaiser- und Königsurkunden KU (813-1794), 42 Papsturkunden PU (1005-1826), 165 Privaturkunden PRU (888-1861), 19 Ablaßbriefe AB (1283-1503).\r\n",
+                      "umfang": "425 Urkunden.",
+                      "teil": null,
+                      "referencedDocumentKey": null,
+                      "instantTillUnOrderable": null,
+                      "reasonUnOrderable": null,
+                      "instantTillNotVisible": null,
+                      "reasonNotVisible": null,
+                      "compoundTitle": "W 701 Urkundenselekt"
+                    },
+                    "findbuchParent": null,
+                    "klassifikationspunktParent": null,
+                    "serieParent": null,
+                    "tektonikpunktParent": null,
+                    "verzeichnungseinheitVorgangParent": null,
+                    "children": [
+                      {
+                        "uploadDate": "2023-05-19T09:10:58.286226Z",
+                        "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+                        "findbuchDocumentTitle": "W 701/Urkundenselekt",
+                        "title": "W 701 / Urkundenselekt",
+                        "state": "IMPORTED",
+                        "veraEntity": "FINDBUCH",
+                        "archivParent": null,
+                        "bestandParent": null,
+                        "id": "d122723b-2cd3-43c7-87c7-cfc734647ca8",
+                        "findbuchParent": {
+                          "id": "d122723b-2cd3-43c7-87c7-cfc734647ca8",
+                          "state": "PUBLISHED",
+                          "uploadDate": "2023-05-19T09:10:58.286226Z",
+                          "publishDate": "2023-05-19T09:11:59.435556Z",
+                          "division": "28aa69ce-df2b-11ed-b5ea-0242ac120002",
+                          "documentTitle": "W 701/Urkundenselekt",
+                          "documentKey": "Fb      27AFB2B5-6D2E-4692-B60D-47CA59BBE062",
+                          "signatur": "W 701",
+                          "name": "Urkundenselekt",
+                          "laufzeit": "09.05.0813-06.04.1861",
+                          "einleitung": "Das Urkundenselekt\r\nUmfang\r\nDas Urkundenselekt im Landesarchiv NRW Abt. Westfalen in Münster umfasst 409 großformatige Urkunden mit einer Gesamtlaufzeit von 813 bis 1861 (Stand 15.02.2017) und wird im Zuge der Urkundenumbettung ständig erweitert. Aus konservatorischen Gründen und wegen ihrer herausragenden Bedeutung werden die Selekturkunden getrennt von ihren Beständen aufbewahrt. Aktuell handelt es sich um: \r\n·\t194 Kaiser- und Königsurkunden KU (813-1794)\r\n·\t42 Papsturkunden PU (1005-1826)\r\n·\t154 Privaturkunden PRU (888-1861)\r\n·\t19 Ablaßbriefe AB (1283-1503)\r\nGleichwohl sprechen wir hierbei bei Weitem nicht über alle Kaiser-, Papst-, Bischofs- oder sonstigen Dynastenurkunden, welche im Landesarchiv NRW Abt. Westfalen verwahrt werden. Viele davon sind in den jeweiligen Beständen verblieben. Erläuterungsbedürftig ist hierbei lediglich, dass es sich bei den sogenannten Privaturkunden um Urkunden von Ausstellern handelt, welche nicht majestätisch oder päpstlich waren; meist handelt es sich hierbei um Landesfürsten - etwa Bischöfe.\r\n\r\nSelektbildung und erste Umbettung\r\nMöglicherweise wurde die archivtheoretische Grundlage für die Bildung von Selekten in preußischen Staatsarchiven für besonders wertvolle und großformatige Urkunden 1894/95 durch einen Lehrenden an der ersten Marburger Archivschule gelegt, durch den Staatsarchivar Karl Gustav Könnecke.\r\nIn den frühen 1970er Jahren - der genaue Zeitpunkt ist nicht mehr zu ermitteln - ergriff der für die Restaurierungswerkstatt zuständige Referent Volker Buchholz die Initiative und ließ die großformatigen Urkunden in eigens gefertigte Kartons umbetten. Eine Ausnahme bildet bis heute die Papyrusurkunde, die von Papst Stephan IV. (V.) 891 ausgestellt wurde und bis heute hinter Glas auf Holz aufgezogen ist (Stift Heerse (Neuenheerse) - Urkunden 3a).\r\n\r\nVerwahrung und zweite Umbettung\r\nEntsprechend der archivischen Tradition wurde im Landesarchiv NRW Abt. Westfalen lange Zeit an einer jahrzehntealten Lagerungstechnik für Urkunden festgehalten. Noch immer befinden sich die meisten Urkunden der letzten 1200 Jahre in säurehaltigen Papiertüten, welche sich wiederum in aufeinandergestapelten Klappkartons befinden. Dem begegnen wir seit 2007 mit dem langfristig für alle über 100.000 Urkunden unseres Hauses angelegten Projekt Urkundenumbettung. \r\nEine besondere Form der Umbettung erfuhr das Urkundenselekt, indem ein neuer lagerungstechnischer Weg beschritten wurde, nämlich durch Einbringung eines passenden Museumskartons in einen Kasten aus Wellkarton. Der Museumskarton kann für Ausstellungszwecke leicht wieder entnommen werden. Die Position der Urkunden wird hierbei mit Hilfe durchsichtiger Polyesterstreifen gehalten. Das gesamte Selekt wurde 2015 von unserem Neubau in den preußischen Archivzweckbau von 1889 am Bohlweg in Münster umgelagert.\r\n\r\nBenutzung und virtueller Lesesaal\r\nBis zu ihrer digitalen Bereitstellung wurden die Selekturkunden physisch im Lesesaal vorgelegt. Dabei erfolgte die Bestellung nach Lokaturen (z.B. KU 1, PU 1, PRU 1, AB 1), die Zitierweise richtet(e) sich jedoch nach der Beständszugehörigkeit (z.B. Fürstabtei Corvey - Urkunden 1a). Bei der Präsentation in digitaler Form ist nun die Zugehörigkeit sowohl zum Selekt als auch zum Provenienzbestand möglich geworden, d.h. die Digitalisate sind in zwei Beständen vorzufinden.\r\nAllerdings folgt diesem herausgehobenen Urkundenbestand auch eine überdurchschnittliche Aufmerksamkeit seitens der Forschung und der Öffentlichkeit. Somit beschreiten wir im Spannungsfeld zwischen Benutzungswünschen und Archivalienschutz seit Jahrzehnten eine Gratwanderung. Die Digitalisierung eröffnet nun einen Ausweg aus diesem Dilemma, indem die Nutzung virtualisiert wird und die Herausgabe der Originale auf das im begründeten Ausnahmefall unbedingt notwendige Maß reduziert, etwa zu hilfswissenschaftlichen Untersuchungen am Pergament oder von Dorsalvermerken. Erfüllt werden mit dem Projekt Urkundenselekt all inclusive die Bedürfnisse der Benutzer und das Schutzgebot für die Archivalien:\r\n·\tZugangserleicherung zum Selekt\r\n·\tGewährleistung der Benutzung\r\n·\tSchutz der Originale\r\n\r\nMaßnahmen\r\nDie erfolgten Maßnahmen für das Urkundenselekt waren noch weitergehend:\r\n·\tRetrokonversion des Inventars und teilweise Neuverzeichnung der Urkunden\r\n·\tDigitalisierung der Urkunden\r\n·\tZugänglichmachung des Inventars und der Digitalisate sowohl im Lesesaal als auch auf dem Archivportal archive.nrw.de und in der Folge auch Möglichkeit eines Uploads auf das Archivportal D, die Deutsche Digitale Bibliothek und auf Europeana.\r\n·\tUmbettung und z.T. Restaurierung der Urkunden (auch der arbeitsintensiven Privaturkunden mit ihren oft zahlreichen Siegeln und Transfixen)\r\n·\tMontierung für Ausstellungszwecke\r\nBesondere Verdienste bei der zweiten Umbettung, der Umlagerung und der Digitalisierung des Urkundenselekts haben sich unsere Querschnittsdezernenten Dr. Johannes Burkardt (2004-2015) und Dr. Ralf-Maria Guntermann (seit 2015) erworben.\r\n\r\nÜberlieferung\r\nDie älteste Urkunde des Landesarchiv NRW, wohl auch des ganzen nördlichen Deutschlands, ist unsere KU 1, nämlich das letzte von Kaiser Karl dem Großen ausgestellte Königsdiplom vom 9. Mai 813 (Fürstabtei Corvey - Urkunden 1a). Als weiteres prominentes Beispiel sei das Fragment der ältesten Corveyer Heberolle aus dem 9. oder 10. Jahrhundert angeführt (Fürstabtei Corvey - Urkunden 42a).\r\nNeben der ältesten Überlieferung des Hauses aus karolingisch-ottonischer Zeit finden sich im Selekt pergamentene Leckerbissen wie die Purpururkunde König Konrads III. für Kloster Corvey vom 23. März 1147 (Fürstabtei Corvey - Urkunden 51a) oder ein prunkvoll illuminierter, immer wieder gerne in Ausstellungen gezeigter Ablassbrief vom 2. Januar 1347 (Stift Fröndenberg - Urkunden 162). Neben ihrer besonderen historischen Bedeutung, ihrem Alter oder einer außergewöhnlichen künsterlichen Qualität konnte auch die Beschaffenheit des Siegels oder auch die Anzahl der an einer Urkunde befindlichen Siegel Grund für die Separierung sein, vornehmlich bei den Ablaßbriefen. Bei den Herrscherurkunden liegt z.B. eine Urkunde Karls IV. mit anhängender Goldbulle (Domkapitel Münster - Urkunden I B1). Zwei Urkunden betreffend die Vereinigung der Städte des Bistums Münster sind mit 10 bzw. 11 Siegeln (Fürstbistum Münster, Landesarchiv - Urkunden 2888), ein anderes Pergament aus dem Bestand des Klosters Grafschaft mit 8 Siegeln (Kloster Grafschaft - Urkunden 17b) ausgestattet.\r\n\r\nHinweis\r\n·\tVormalige PU 21 ist jetzt PRU 105\r\n·\tVormalige PRU 68 ist jetzt PRU 68a\r\n·\tVormalige PRU 69 ist jetzt PRU 68b\r\n\r\nWeitere Informationen zum Urkundenselekt: \r\n·\tLAV NRW W Dienstregistratur Nr. 3156\r\n·\tBurkardt, Johannes, Bestandserhaltung und Bestandssicherung mittelalterlicher Urkunden, in: Fees, Irmgard / Hedwig, Andreas / Roberg, Francesco (Hgg.), Papsturkunden des frühen und hohen Mittelalters. Äußere Merkmale - Konservierung - Restaurierung, Leipzig 2011, S. 45-61.\r\n·\tLentfort, Hermann, Verschiedene Systeme der Siegel- und Urkundenaufbewahrung. Neue Montage der wertvollen Urkunden im Staatsarchiv Münster, in: Arbeitsblätter des Arbeitskreises Nordrhein-Westfälischer Papierrestauratoren 10 - 17. Fachgespräch der NRW-Papierrestauratoren am 7. März und 8. März in Altenberg/Odenthal, 2006, S. 81-84.\r\n\r\nMünster, den 15.02.2017\r\nDr. Thomas Reich\r\n",
+                          "instantTillUnOrderable": null,
+                          "instantTillNotVisible": "+10000-01-01T00:59:59Z",
+                          "reasonUnOrderable": null,
+                          "reasonNotVisible": "Digitalisat vorhanden"
+                        },
+                        "klassifikationspunktParent": null,
+                        "serieParent": null,
+                        "tektonikpunktParent": null,
+                        "verzeichnungseinheitVorgangParent": null,
+                        "children": [
+                          {
+                            "uploadDate": "2023-05-19T09:10:58.286226Z",
+                            "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+                            "findbuchDocumentTitle": "W 701/Urkundenselekt",
+                            "title": "Kaiserurkunden",
+                            "state": "PUBLISHED",
+                            "veraEntity": "KLASSIFIKATIONSPUNKT",
+                            "archivParent": null,
+                            "bestandParent": null,
+                            "findbuchParent": null,
+                            "id": "65635fde-080b-46e6-9ff2-0e0aca0189fe",
+                            "klassifikationspunktParent": {
+                              "id": "65635fde-080b-46e6-9ff2-0e0aca0189fe",
+                              "documentKey": "Klas    981B78DA-062E-4D3E-B849-E67CA91A759A",
+                              "titel": "Kaiserurkunden",
+                              "bemerkung": null,
+                              "referencedDocumentKey": null,
+                              "instantTillUnOrderable": null,
+                              "reasonUnOrderable": null,
+                              "instantTillNotVisible": null,
+                              "reasonNotVisible": "Keine Schutzfristen zu beachten"
+                            },
+                            "serieParent": null,
+                            "tektonikpunktParent": null,
+                            "verzeichnungseinheitVorgangParent": null,
+                            "children": [
+                              {
+                                "uploadDate": "2023-05-19T09:10:58.286226Z",
+                                "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+                                "findbuchDocumentTitle": "W 701/Urkundenselekt",
+                                "title": "Karl der Große gibt dem Assig den von dessen Vater Hiddi angelegten Bivanc und bekundet zugleich, dass Hiddi früher den Ort Havucabrunno im Walde Bocchonia zwischen Weser und Fulda urbar gemacht hat.\r\n\r\n",
+                                "state": "PUBLISHED",
+                                "veraEntity": "VERZEICHNUNGSEINHEIT",
+                                "archivParent": null,
+                                "bestandParent": null,
+                                "findbuchParent": null,
+                                "klassifikationspunktParent": null,
+                                "serieParent": null,
+                                "tektonikpunktParent": null,
+                                "id": "5faba518-4ac0-447b-a537-778478b05f12",
+                                "metadata": [
+                                  {
+                                    "label": "Bestellsignatur",
+                                    "value": [
+                                      "KU 1",
+                                      "W 701/Urkundenselekt, Nr. KU 1"
+                                    ]
+                                  },
+                                  {
+                                    "label": "Laufzeit",
+                                    "value": [
+                                      "813 Mai 9"
+                                    ]
+                                  },
+                                  {
+                                    "label": "Registraturbildner",
+                                    "value": [
+                                      "Erloschen"
+                                    ]
+                                  },
+                                  {
+                                    "label": "Archivalientyp",
+                                    "value": [
+                                      "Urkunde"
+                                    ]
+                                  }
+                                ],
+                                "verzeichnungseinheitVorgangParent": {
+                                  "id": "5faba518-4ac0-447b-a537-778478b05f12",
+                                  "documentKey": "Vz      377ABAE1-9CA4-45C0-910D-980A8C7E3132",
+                                  "documentType": "Vz",
+                                  "bestellsignatur": "KU 1",
+                                  "laufzeit": "813 Mai 9",
+                                  "registraturbildner": "Erloschen",
+                                  "archivalientyp": "Urkunde",
+                                  "bildTitel": null,
+                                  "beiakte": null,
+                                  "film": null,
+                                  "karte": null,
+                                  "kirchenbuch": null,
+                                  "plakat": null,
+                                  "prozessverfahrensakte": null,
+                                  "siegel": null,
+                                  "sachakte": null,
+                                  "ton": null,
+                                  "urkunde": "Karl der Große gibt dem Assig den von dessen Vater Hiddi angelegten Bivanc und bekundet zugleich, dass Hiddi früher den Ort Havucabrunno im Walde Bocchonia zwischen Weser und Fulda urbar gemacht hat.\r\n\r\n",
+                                  "signatur1": null,
+                                  "signatur2": "KU 1",
+                                  "band": null,
+                                  "kurztitel": "Karl der Große gibt dem Assig den von dessen Vater",
+                                  "viewerUrl": "http://bilderserver.lav.nrw.de/intern/mets.aspx?fileName=/Abt_Westfalen/Urkundenselekt/Kaiserurkunden/~000/00001/mets.xml",
+                                  "referencedDocumentKey": null,
+                                  "instantTillUnOrderable": null,
+                                  "instantTillNotVisible": null,
+                                  "reasonUnOrderable": "Keine Schutzfristen zu beachten",
+                                  "reasonNotVisible": "Keine Schutzfristen zu beachten",
+                                  "compoundSign": "W 701/Urkundenselekt, Nr. KU 1"
+                                },
+                                "children": []
+                              },
+                              {
+                                "uploadDate": "2023-05-19T09:10:58.286226Z",
+                                "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+                                "findbuchDocumentTitle": "W 701/Urkundenselekt",
+                                "title": "Kaiser Ludwig der Fromme erteilt dem Abt Castus die Immunität für sein Kloster Visbeck und die ihm untergebenen Missionskirchen im Hesiga und Fenkiga, mit Ausnahme einer Kirche in Sarlinga, die wiederrum dem Bistum Münster zugelegt werden soll.\r\n",
+                                "state": "PUBLISHED",
+                                "veraEntity": "VERZEICHNUNGSEINHEIT",
+                                "archivParent": null,
+                                "bestandParent": null,
+                                "findbuchParent": null,
+                                "klassifikationspunktParent": null,
+                                "serieParent": null,
+                                "tektonikpunktParent": null,
+                                "id": "5f632e17-9208-4853-8b95-7c20123e97e3",
+                                "metadata": [
+                                  {
+                                    "label": "Bestellsignatur",
+                                    "value": [
+                                      "KU 2",
+                                      "W 701/Urkundenselekt, Nr. KU 2"
+                                    ]
+                                  },
+                                  {
+                                    "label": "Laufzeit",
+                                    "value": [
+                                      "819 September 1"
+                                    ]
+                                  },
+                                  {
+                                    "label": "Registraturbildner",
+                                    "value": [
+                                      "Erloschen"
+                                    ]
+                                  },
+                                  {
+                                    "label": "Archivalientyp",
+                                    "value": [
+                                      "Urkunde"
+                                    ]
+                                  }
+                                ],
+                                "verzeichnungseinheitVorgangParent": {
+                                  "id": "5f632e17-9208-4853-8b95-7c20123e97e3",
+                                  "documentKey": "Vz      62830E22-51EA-4FBB-AB79-0D95C20EAF3F",
+                                  "documentType": "Vz",
+                                  "bestellsignatur": "KU 2",
+                                  "laufzeit": "819 September 1",
+                                  "registraturbildner": "Erloschen",
+                                  "archivalientyp": "Urkunde",
+                                  "bildTitel": null,
+                                  "beiakte": null,
+                                  "film": null,
+                                  "karte": null,
+                                  "kirchenbuch": null,
+                                  "plakat": null,
+                                  "prozessverfahrensakte": null,
+                                  "siegel": null,
+                                  "sachakte": null,
+                                  "ton": null,
+                                  "urkunde": "Kaiser Ludwig der Fromme erteilt dem Abt Castus die Immunität für sein Kloster Visbeck und die ihm untergebenen Missionskirchen im Hesiga und Fenkiga, mit Ausnahme einer Kirche in Sarlinga, die wiederrum dem Bistum Münster zugelegt werden soll.\r\n",
+                                  "signatur1": null,
+                                  "signatur2": "KU 2",
+                                  "band": null,
+                                  "kurztitel": "Kaiser Ludwig der Fromme erteilt dem Abt Castus di",
+                                  "viewerUrl": "http://bilderserver.lav.nrw.de/intern/mets.aspx?fileName=/Abt_Westfalen/Urkundenselekt/Kaiserurkunden/~000/00002/mets.xml",
+                                  "referencedDocumentKey": null,
+                                  "instantTillUnOrderable": null,
+                                  "instantTillNotVisible": null,
+                                  "reasonUnOrderable": "Keine Schutzfristen zu beachten",
+                                  "reasonNotVisible": "Keine Schutzfristen zu beachten",
+                                  "compoundSign": "W 701/Urkundenselekt, Nr. KU 2"
+                                },
+                                "children": []
+                              },
+                              {
+                                "uploadDate": "2023-05-19T09:10:58.286226Z",
+                                "archivDocumentTitle": "LAV NRW W - Landesarchiv NRW Abteilung Westfalen",
+                                "findbuchDocumentTitle": "W 701/Urkundenselekt",
+                                "title": "Kaiser Ludwig der Fromme nimmt auf Bitten des Bischofs Baduradus zu Paderborn die Kirche daselbst in seinen Schutz und befreit sie von aller fremden Jurisdiktion und allen an den kaiserlichen Fiskus zu entrichtenden Abgaben.\r\n\r\n",
+                                "state": "PUBLISHED",
+                                "veraEntity": "VERZEICHNUNGSEINHEIT",
+                                "archivParent": null,
+                                "bestandParent": null,
+                                "findbuchParent": null,
+                                "klassifikationspunktParent": null,
+                                "serieParent": null,
+                                "tektonikpunktParent": null,
+                                "id": "cc76e27a-5d2e-416b-b268-9b2e2babff17",
+                                "metadata": [
+                                  {
+                                    "label": "Bestellsignatur",
+                                    "value": [
+                                      "KU 3",
+                                      "W 701/Urkundenselekt, Nr. KU 3"
+                                    ]
+                                  },
+                                  {
+                                    "label": "Laufzeit",
+                                    "value": [
+                                      "822 April 2"
+                                    ]
+                                  },
+                                  {
+                                    "label": "Registraturbildner",
+                                    "value": [
+                                      "Erloschen"
+                                    ]
+                                  },
+                                  {
+                                    "label": "Archivalientyp",
+                                    "value": [
+                                      "Urkunde"
+                                    ]
+                                  }
+                                ],
+                                "verzeichnungseinheitVorgangParent": {
+                                  "id": "cc76e27a-5d2e-416b-b268-9b2e2babff17",
+                                  "documentKey": "Vz      6B810506-88A3-48F4-BE7A-773B79D27FDA",
+                                  "documentType": "Vz",
+                                  "bestellsignatur": "KU 3",
+                                  "laufzeit": "822 April 2",
+                                  "registraturbildner": "Erloschen",
+                                  "archivalientyp": "Urkunde",
+                                  "bildTitel": null,
+                                  "beiakte": null,
+                                  "film": null,
+                                  "karte": null,
+                                  "kirchenbuch": null,
+                                  "plakat": null,
+                                  "prozessverfahrensakte": null,
+                                  "siegel": null,
+                                  "sachakte": null,
+                                  "ton": null,
+                                  "urkunde": "Kaiser Ludwig der Fromme nimmt auf Bitten des Bischofs Baduradus zu Paderborn die Kirche daselbst in seinen Schutz und befreit sie von aller fremden Jurisdiktion und allen an den kaiserlichen Fiskus zu entrichtenden Abgaben.\r\n\r\n",
+                                  "signatur1": null,
+                                  "signatur2": "KU 3",
+                                  "band": null,
+                                  "kurztitel": "Kaiser Ludwig der Fromme nimmt auf Bitten des Bisc",
+                                  "viewerUrl": "http://bilderserver.lav.nrw.de/intern/mets.aspx?fileName=/Abt_Westfalen/Urkundenselekt/Kaiserurkunden/~000/00003/mets.xml",
+                                  "referencedDocumentKey": null,
+                                  "instantTillUnOrderable": null,
+                                  "instantTillNotVisible": null,
+                                  "reasonUnOrderable": null,
+                                  "reasonNotVisible": null,
+                                  "compoundSign": "W 701/Urkundenselekt, Nr. KU 3"
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

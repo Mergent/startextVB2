@@ -1,0 +1,587 @@
+[
+  {
+    "id": "3b499fd6-cdc2-47f6-a1d9-05506fe40b42",
+    "username": "genetaror2000",
+    "email": "genetaror2000@gmail.com",
+    "firstName": "Isold",
+    "lastName": "Steube",
+    "division": "b023c6ed-6584-42b5-ae5a-caca0ece3b86",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_ENTWICKELN"
+    ]
+  },
+  {
+    "id": "8b3e6d5d-8a34-48d5-826b-02300d42b696",
+    "username": "IAmLenzWeber",
+    "email": "IAmLenzWeber@gmail.de",
+    "firstName": "Lenz",
+    "lastName": "Weber",
+    "division": "98de449b-863b-4cc9-8929-c92e47beb1b6",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_GENERIEREN"
+    ]
+  },
+  {
+    "id": "02d76c80-fee1-40c8-89d6-16917f0dbc2f",
+    "username": "AnnWegener",
+    "email": "AnnWegener@dmail.com",
+    "firstName": "Annaleisa",
+    "lastName": "Wegener",
+    "division": "7b5648e0-aeb7-40d1-a426-a6e2a209bb9a",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_MANAGER"
+    ]
+  },
+  {
+    "id": "30085484-bf21-4218-aa24-20904091cb63",
+    "username": "LoveKingsofRings",
+    "email": "LoveKingsofRings@mail.com",
+    "firstName": "Faramond",
+    "lastName": "Warner",
+    "division": "b023c6ed-6584-42b5-ae5a-caca0ece3b86",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_ADMIN"
+    ]
+  },
+  {
+    "id": "726da4d0-ff5d-4930-b5e7-4b8dba196b22",
+    "username": "PocarlaGorman",
+    "email": "PocarlaGorman@zmail.com",
+    "firstName": "Carla",
+    "lastName": "Gorman",
+    "division": "7b5648e0-aeb7-40d1-a426-a6e2a209bb9a",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_PRODUCTION"
+    ]
+  },
+  {
+    "id": "ae85ee6c-f502-436c-adde-8b604413eb06",
+    "username": "ArtwinNeumann",
+    "email": "ArtwinNeumann@qmail.com",
+    "firstName": "Ortwin",
+    "lastName": "Neumann",
+    "division": "98de449b-863b-4cc9-8929-c92e47beb1b6",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_GENERIEREN"
+    ]
+  },
+  {
+    "id": "c378758e-1ca5-4959-9ead-a98c73695e0c",
+    "username": "WeneraLudwig",
+    "email": "WeneraLudwig@mail.de",
+    "firstName": "Erna",
+    "lastName": "Ludwig",
+    "division": "b023c6ed-6584-42b5-ae5a-caca0ece3b86",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_ADMIN"
+    ]
+  },
+  {
+    "id": "c9308dc3-c582-42c5-9a74-bd012e1c06d5",
+    "username": "JochenSitz1984",
+    "email": "JochenSitz1984@dmail.de",
+    "firstName": "Jochen",
+    "lastName": "Sitz",
+    "division": "98de449b-863b-4cc9-8929-c92e47beb1b6",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_ENTWICKELN"
+    ]
+  },
+  {
+    "id": "fbe06675-568b-48b0-86a4-7b999acf6684",
+    "username": "ErwinAndBurunducks",
+    "email": "ErwinAndBurunducks@keny.de",
+    "firstName": "Erwin",
+    "lastName": "Schulte",
+    "division": "7b5648e0-aeb7-40d1-a426-a6e2a209bb9a",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_PRODUCTION"
+    ]
+  },
+  {
+    "id": "0ebf859b-cf44-4116-ba6d-d89c180f935d",
+    "username": "TiersOfRupert",
+    "email": "TiersOfRupert@rv.com",
+    "firstName": "Rupert",
+    "lastName": "Vieth",
+    "division": "98de449b-863b-4cc9-8929-c92e47beb1b6",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_ENTWICKELN"
+    ]
+  },
+  {
+    "id": "4eba75f8-4cc6-40ac-a422-9af06afdd208",
+    "username": "GermanWeber",
+    "email": "GermanWeber@gw.de",
+    "firstName": "Gertraud",
+    "lastName": "Weber",
+    "division": "98de449b-863b-4cc9-8929-c92e47beb1b6",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_ENTWICKELN"
+    ]
+  },
+  {
+    "id": "253d25a6-7754-4c3a-9b31-8836ec832e0e",
+    "username": "LAVe",
+    "email": "HimrickBaumann@hb.com",
+    "firstName": "Herrick",
+    "lastName": "Baumann",
+    "source": "Active directory",
+    "external": false,
+    "division": "98de449b-863b-4cc9-8929-c92e47beb1b6",
+    "roles": [
+      "ROLE_PRODUCTION"
+    ]
+  },
+  {
+    "id": "74ea99d7-6659-4417-b949-518485d32d89",
+    "username": "GurianDreyer",
+    "email": "GurianDreyer@jd.com",
+    "firstName": "Jurian",
+    "lastName": "Dreyer",
+    "division": "7b5648e0-aeb7-40d1-a426-a6e2a209bb9a",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_ENTWICKELN"
+    ]
+  },
+  {
+    "id": "f92740eb-8c5c-4027-9a3f-55d7acedfac9",
+    "username": "IvanGuy",
+    "email": "IvanGuy@hn.com",
+    "firstName": "Haydn",
+    "lastName": "Neumann",
+    "division": "98de449b-863b-4cc9-8929-c92e47beb1b6",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_GENERIEREN"
+    ]
+  },
+  {
+    "id": "d6ed58b1-1bfa-4862-ad00-c5ba0094633b",
+    "username": "ErwinOrLose",
+    "email": "ErwinOrLose@ek.com",
+    "firstName": "Erwin",
+    "lastName": "Kunkel",
+    "division": "7b5648e0-aeb7-40d1-a426-a6e2a209bb9a",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_GENERIEREN"
+    ]
+  },
+  {
+    "id": "ec972e9d-6fba-468b-8077-dfb4cc1fef9e",
+    "username": "PhileapMirana",
+    "email": "PhileapMirana@pk.com",
+    "firstName": "Philipp",
+    "lastName": "Kiefer",
+    "division": "7b5648e0-aeb7-40d1-a426-a6e2a209bb9a",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_ENTWICKELN"
+    ]
+  },
+  {
+    "id": "c9a9254f-5976-4701-bdcc-4b9513931542",
+    "username": "HerdKuhn",
+    "email": "HerdKuhn@gk.com",
+    "firstName": "Gerd",
+    "lastName": "Kuhn",
+    "division": "b023c6ed-6584-42b5-ae5a-caca0ece3b86",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_ENTWICKELN"
+    ]
+  },
+  {
+    "id": "79163663-2ef9-43b6-8b79-41284376f6f8",
+    "username": "CäciliaLudwig",
+    "email": "CäciliaLudwig@cl.de",
+    "firstName": "Cäcilia",
+    "lastName": "Ludwig",
+    "division": "7b5648e0-aeb7-40d1-a426-a6e2a209bb9a",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_PRODUCTION"
+    ]
+  },
+  {
+    "id": "d4db90d3-4eb4-4a7d-9da4-9faea20f2b6e",
+    "username": "HiHildaWegener",
+    "email": "HiHildaWegener@hd.com",
+    "firstName": "Non-removable",
+    "lastName": "User",
+    "division": "98de449b-863b-4cc9-8929-c92e47beb1b6",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_PRODUCTION"
+    ]
+  },
+  {
+    "id": "34f1b901-fa15-4b0c-813b-dbc3044e4a0b",
+    "username": "WhereIsWaldo",
+    "email": "WhereIsWaldo@ws.com",
+    "firstName": "Waldo",
+    "lastName": "Schmidt",
+    "division": "b023c6ed-6584-42b5-ae5a-caca0ece3b86",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_ENTWICKELN"
+    ]
+  },
+  {
+    "id": "00f34457-1c5b-4f97-86ef-43d0781f1dc0",
+    "username": "BurnhardLang",
+    "email": "BurnhardLang@bl.com",
+    "firstName": "Bernhard",
+    "lastName": "Lang",
+    "division": "b023c6ed-6584-42b5-ae5a-caca0ece3b86",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_PRODUCTION"
+    ]
+  },
+  {
+    "id": "ccd235bb-772e-43a0-9acc-13791cc1dfa1",
+    "username": "SellMesser",
+    "email": "SellMesser@gm.com",
+    "firstName": "Gisela",
+    "lastName": "Messer",
+    "division": "b023c6ed-6584-42b5-ae5a-caca0ece3b86",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_GENERIEREN"
+    ]
+  },
+  {
+    "id": "35833e19-db2c-4710-891b-ed2a40736b00",
+    "username": "admin",
+    "email": "admin@admin.hryu",
+    "firstName": "Crutoi",
+    "lastName": "Admin",
+    "source": "drupal",
+    "external": false,
+    "division": "98de449b-863b-4cc9-8929-c92e47beb1b6",
+    "roles": [
+      "ROLE_ADMIN"
+    ]
+  },
+  {
+    "id": "180a7f6a-6eba-4be6-84ec-171b03b7ad35",
+    "username": "GinDietrich",
+    "email": "GinDietrich@gmail.com",
+    "firstName": "Vergil",
+    "lastName": "Dietrich",
+    "division": "b023c6ed-6584-42b5-ae5a-caca0ece3b86",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_ENTWICKELN"
+    ]
+  },
+  {
+    "id": "94144d62-4d13-4f22-bcf1-ee2b37d78f17",
+    "username": "ThuericGoudier",
+    "email": "ThuericGoudier@gmail.de",
+    "firstName": "Friederic",
+    "lastName": "Goudier",
+    "division": "98de449b-863b-4cc9-8929-c92e47beb1b6",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_GENERIEREN"
+    ]
+  },
+  {
+    "id": "7d0e943d-d8eb-4b80-a1c4-47a2e4b00095",
+    "username": "WaldrichDerichs",
+    "email": "WaldrichDerichs@dmail.com",
+    "firstName": "Aldrich",
+    "lastName": "Derichs",
+    "division": "7b5648e0-aeb7-40d1-a426-a6e2a209bb9a",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_MANAGER"
+    ]
+  },
+  {
+    "id": "36f4be51-5360-4d99-a994-4bd67b03f4d0",
+    "username": "CarolineFriedrich",
+    "email": "CarolineFriedrich@mail.com",
+    "firstName": "Karoline",
+    "lastName": "Friedrich",
+    "division": "b023c6ed-6584-42b5-ae5a-caca0ece3b86",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_ADMIN"
+    ]
+  },
+  {
+    "id": "c01ecc79-ab1d-4a8b-ad85-e406d62852a0",
+    "username": "KemerovoSchreier",
+    "email": "KemerovoSchreier@zmail.com",
+    "firstName": "Emeric",
+    "lastName": "Schreier",
+    "division": "7b5648e0-aeb7-40d1-a426-a6e2a209bb9a",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_PRODUCTION"
+    ]
+  },
+  {
+    "id": "56e6f70b-c42e-4dee-9b3a-0b827ba3458b",
+    "username": "EvaElfi",
+    "email": "EvaElfi@qmail.com",
+    "firstName": "Elfi",
+    "lastName": "Kraus",
+    "division": "98de449b-863b-4cc9-8929-c92e47beb1b6",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_GENERIEREN"
+    ]
+  },
+  {
+    "id": "9040426b-384b-44b7-80aa-68a096b81f09",
+    "username": "ChildLarenz",
+    "email": "ChildLarenz@mail.de",
+    "firstName": "Otthild",
+    "lastName": "Larenz",
+    "division": "b023c6ed-6584-42b5-ae5a-caca0ece3b86",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_ADMIN"
+    ]
+  },
+  {
+    "id": "0af62fe2-e697-4cb3-8af7-a3d51375a350",
+    "username": "DirkKnife",
+    "email": "DirkKnife@dmail.de",
+    "firstName": "Dirk",
+    "lastName": "Teufel",
+    "division": "b023c6ed-6584-42b5-ae5a-caca0ece3b86",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_ENTWICKELN"
+    ]
+  },
+  {
+    "id": "2b8ce7e3-82ab-4135-a416-4672cc61d36d",
+    "username": "ChildSchmid",
+    "email": "ChildSchmid@keny.de",
+    "firstName": "Schwanhild",
+    "lastName": "Schmid",
+    "division": "7b5648e0-aeb7-40d1-a426-a6e2a209bb9a",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_PRODUCTION"
+    ]
+  },
+  {
+    "id": "01926e9a-30c5-495c-8e88-1cd932075827",
+    "username": "EsamondWalter",
+    "email": "EsamondWalter@rv.com",
+    "firstName": "Rosamond",
+    "lastName": "Walter",
+    "division": "98de449b-863b-4cc9-8929-c92e47beb1b6",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_ENTWICKELN"
+    ]
+  },
+  {
+    "id": "5014a680-9202-4270-8347-ee17fcac8323",
+    "username": "SaraStein",
+    "email": "SaraStein@gw.de",
+    "firstName": "Sara",
+    "lastName": "Stein",
+    "division": "98de449b-863b-4cc9-8929-c92e47beb1b6",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_ENTWICKELN"
+    ]
+  },
+  {
+    "id": "42cdd942-d030-476a-8d6e-13d515f20013",
+    "username": "WillHellomineFeld",
+    "email": "WillHellomineFeld@hb.com",
+    "firstName": "Wilhelmine",
+    "lastName": "Feld",
+    "division": "98de449b-863b-4cc9-8929-c92e47beb1b6",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_PRODUCTION"
+    ]
+  },
+  {
+    "id": "ef80f336-733d-4e2e-8071-def54e311d98",
+    "username": "AlertConsoleLog",
+    "email": "AlertConsoleLog@jd.com",
+    "firstName": "Aleit",
+    "lastName": "Meier",
+    "division": "7b5648e0-aeb7-40d1-a426-a6e2a209bb9a",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_ENTWICKELN"
+    ]
+  },
+  {
+    "id": "b7e66344-cb26-44e3-9676-7a9516b34a81",
+    "username": "WernerBrothers",
+    "email": "WernerBrothers@hn.com",
+    "firstName": "Werner",
+    "lastName": "Derichs",
+    "division": "",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_GENERIEREN"
+    ]
+  },
+  {
+    "id": "d494a269-70a2-4226-bbfc-32b62c62a6cc",
+    "username": "HomerholdWarner",
+    "email": "HomerholdWarner@ek.com",
+    "firstName": "Barthold",
+    "lastName": "Warner",
+    "division": "7b5648e0-aeb7-40d1-a426-a6e2a209bb9a",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_GENERIEREN"
+    ]
+  },
+  {
+    "id": "129aa358-887b-480b-a3f7-a434fc6ae8f6",
+    "username": "LAVc",
+    "email": "SofaAlthaus@pk.com",
+    "firstName": "Sofia",
+    "lastName": "Althaus",
+    "source": "Active directory",
+    "external": true,
+    "division": "7b5648e0-aeb7-40d1-a426-a6e2a209bb9a",
+    "roles": [
+      "ROLE_ENTWICKELN"
+    ]
+  },
+  {
+    "id": "1bf115f3-a7e9-4d91-a80f-5f8f849ad36c",
+    "username": "SonjeKlossner",
+    "email": "SonjeKlossner@gk.com",
+    "firstName": "Sonje",
+    "lastName": "Klossner",
+    "division": "7b5648e0-aeb7-40d1-a426-a6e2a209bb9a",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_ENTWICKELN"
+    ]
+  },
+  {
+    "id": "caaa0830-8fd9-4c7b-84ba-391ae66e86c6",
+    "username": "JulianeForst",
+    "email": "JulianeForst@cl.de",
+    "firstName": "Juliane",
+    "lastName": "Forst",
+    "division": "98de449b-863b-4cc9-8929-c92e47beb1b6",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_PRODUCTION"
+    ]
+  },
+  {
+    "id": "0b572114-d937-47ac-9edc-3d2467a3e872",
+    "username": "AvisFabian",
+    "email": "AvisFabian@hd.com",
+    "firstName": "Avis",
+    "lastName": "Fabian",
+    "division": "b023c6ed-6584-42b5-ae5a-caca0ece3b86",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_PRODUCTION"
+    ]
+  },
+  {
+    "id": "bbb18cb8-7b92-4684-8ca9-dbc82f8f11d2",
+    "username": "AgnethFrei",
+    "email": "AgnethFrei@ws.com",
+    "firstName": "Agneth",
+    "lastName": "Frei",
+    "division": "b023c6ed-6584-42b5-ae5a-caca0ece3b86",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_ENTWICKELN"
+    ]
+  },
+  {
+    "id": "2f8e32f4-9722-44a3-89d2-1046e8fd898d",
+    "username": "NadelIliOdel",
+    "email": "NadelIliOdel@bl.com",
+    "firstName": "Adelhard",
+    "lastName": "Stein",
+    "division": "b023c6ed-6584-42b5-ae5a-caca0ece3b86",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_PRODUCTION"
+    ]
+  },
+  {
+    "id": "33a36bcf-a969-4ef1-91f6-8361a2f6ce40",
+    "username": "Stein232Semeric",
+    "email": "Stein232Semeric@gm.com",
+    "firstName": "Emeric",
+    "lastName": "Steinmann",
+    "division": "b023c6ed-6584-42b5-ae5a-caca0ece3b86",
+    "source": "Active directory",
+    "external": true,
+    "roles": [
+      "ROLE_GENERIEREN"
+    ]
+  }
+]
